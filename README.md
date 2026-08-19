@@ -6,30 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 18 |
+| 46 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (6)
-- [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (10)
-- [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (9)
-- [data structures](#data-structures) (2)
-- [dp](#dp) (5)
-- [geometry](#geometry) (1)
+- [binary search](#binary-search) (8)
+- [bitmasks](#bitmasks) (3)
+- [brute force](#brute-force) (13)
+- [combinatorics](#combinatorics) (4)
+- [constructive algorithms](#constructive-algorithms) (13)
+- [data structures](#data-structures) (3)
+- [dp](#dp) (7)
+- [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (21)
-- [implementation](#implementation) (7)
-- [math](#math) (10)
+- [greedy](#greedy) (30)
+- [implementation](#implementation) (11)
+- [math](#math) (16)
 - [matrices](#matrices) (1)
-- [number theory](#number-theory) (2)
-- [sortings](#sortings) (4)
-- [strings](#strings) (6)
+- [number theory](#number-theory) (4)
+- [probabilities](#probabilities) (1)
+- [sortings](#sortings) (6)
+- [strings](#strings) (7)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -42,6 +43,8 @@
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 | 2065C2 | [Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/C2%20-%20Skibidus%20and%20Fanum%20Tax%20(hard%20version)/solution.cpp) |
 | 2070C | [Limited Repainting](https://codeforces.com/contest/2070/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2070/C%20-%20Limited%20Repainting/solution.cpp) |
+| 2075C | [Two Colors](https://codeforces.com/contest/2075/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2075/C%20-%20Two%20Colors/solution.cpp) |
+| 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### bitmasks
@@ -49,6 +52,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2072C | [Creating Keys for StORages Has Become My Main Skill](https://codeforces.com/contest/2072/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/C%20-%20Creating%20Keys%20for%20StORages%20Has%20Become%20My%20Main%20Skill/solution.cpp) |
+| 2074C | [XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/C%20-%20XOR%20and%20Triangle/solution.cpp) |
+| 2085C | [Serval and The Formula](https://codeforces.com/contest/2085/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/C%20-%20Serval%20and%20The%20Formula/solution.cpp) |
 
 ### brute force
 
@@ -64,6 +69,9 @@
 | 2070B | [Robot Program](https://codeforces.com/contest/2070/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2070/B%20-%20Robot%20Program/solution.cpp) |
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
 | 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](https://codeforces.com/contest/2072/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/D%20-%20For%20Wizards%2C%20the%20Exam%20Is%20Easy%2C%20but%20I%20Couldn't%20Handle%20It/solution.cpp) |
+| 2074C | [XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/C%20-%20XOR%20and%20Triangle/solution.cpp) |
+| 2074D | [Counting Points](https://codeforces.com/contest/2074/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/D%20-%20Counting%20Points/solution.cpp) |
+| 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
 
 ### combinatorics
 
@@ -72,6 +80,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2069C | [Beautiful Sequence](https://codeforces.com/contest/2069/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2069/C%20-%20Beautiful%20Sequence/solution.cpp) |
 | 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
+| 2075C | [Two Colors](https://codeforces.com/contest/2075/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2075/C%20-%20Two%20Colors/solution.cpp) |
 
 ### constructive algorithms
 
@@ -86,6 +95,10 @@
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
 | 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
 | 2072C | [Creating Keys for StORages Has Become My Main Skill](https://codeforces.com/contest/2072/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/C%20-%20Creating%20Keys%20for%20StORages%20Has%20Become%20My%20Main%20Skill/solution.cpp) |
+| 2085A | [Serval and String Theory](https://codeforces.com/contest/2085/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/A%20-%20Serval%20and%20String%20Theory/solution.cpp) |
+| 2085B | [Serval and Final MEX](https://codeforces.com/contest/2085/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/B%20-%20Serval%20and%20Final%20MEX/solution.cpp) |
+| 2085C | [Serval and The Formula](https://codeforces.com/contest/2085/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/C%20-%20Serval%20and%20The%20Formula/solution.cpp) |
+| 2091C | [Combination Lock](https://codeforces.com/contest/2091/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/C%20-%20Combination%20Lock/solution.cpp) |
 
 ### data structures
 
@@ -93,6 +106,7 @@
 |---|---------|------------|----------|
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
+| 2074D | [Counting Points](https://codeforces.com/contest/2074/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/D%20-%20Counting%20Points/solution.cpp) |
 
 ### dp
 
@@ -103,12 +117,18 @@
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 | 2069C | [Beautiful Sequence](https://codeforces.com/contest/2069/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2069/C%20-%20Beautiful%20Sequence/solution.cpp) |
+| 2085C | [Serval and The Formula](https://codeforces.com/contest/2085/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/C%20-%20Serval%20and%20The%20Formula/solution.cpp) |
+| 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
 
 ### geometry
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
+| 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2074C | [XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/C%20-%20XOR%20and%20Triangle/solution.cpp) |
+| 2074D | [Counting Points](https://codeforces.com/contest/2074/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/D%20-%20Counting%20Points/solution.cpp) |
 
 ### graph matchings
 
@@ -141,6 +161,15 @@
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
 | 2072C | [Creating Keys for StORages Has Become My Main Skill](https://codeforces.com/contest/2072/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/C%20-%20Creating%20Keys%20for%20StORages%20Has%20Become%20My%20Main%20Skill/solution.cpp) |
 | 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](https://codeforces.com/contest/2072/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/D%20-%20For%20Wizards%2C%20the%20Exam%20Is%20Easy%2C%20but%20I%20Couldn't%20Handle%20It/solution.cpp) |
+| 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2074C | [XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/C%20-%20XOR%20and%20Triangle/solution.cpp) |
+| 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2075/A%20-%20To%20Zero/solution.cpp) |
+| 2085C | [Serval and The Formula](https://codeforces.com/contest/2085/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/C%20-%20Serval%20and%20The%20Formula/solution.cpp) |
+| 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.cpp) |
+| 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
+| 2091C | [Combination Lock](https://codeforces.com/contest/2091/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/C%20-%20Combination%20Lock/solution.cpp) |
+| 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.cpp) |
+| 2092A | [Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2092/A%20-%20Kamilka%20and%20the%20Sheep/solution.cpp) |
 
 ### implementation
 
@@ -153,6 +182,10 @@
 | 2070B | [Robot Program](https://codeforces.com/contest/2070/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2070/B%20-%20Robot%20Program/solution.cpp) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
 | 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](https://codeforces.com/contest/2072/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/D%20-%20For%20Wizards%2C%20the%20Exam%20Is%20Easy%2C%20but%20I%20Couldn't%20Handle%20It/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
+| 2074D | [Counting Points](https://codeforces.com/contest/2074/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/D%20-%20Counting%20Points/solution.cpp) |
+| 2085A | [Serval and String Theory](https://codeforces.com/contest/2085/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/A%20-%20Serval%20and%20String%20Theory/solution.cpp) |
+| 2085B | [Serval and Final MEX](https://codeforces.com/contest/2085/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2085/B%20-%20Serval%20and%20Final%20MEX/solution.cpp) |
 
 ### math
 
@@ -167,6 +200,12 @@
 | 2070B | [Robot Program](https://codeforces.com/contest/2070/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2070/B%20-%20Robot%20Program/solution.cpp) |
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
+| 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2075/A%20-%20To%20Zero/solution.cpp) |
+| 2075C | [Two Colors](https://codeforces.com/contest/2075/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2075/C%20-%20Two%20Colors/solution.cpp) |
+| 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.cpp) |
+| 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
+| 2092A | [Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2092/A%20-%20Kamilka%20and%20the%20Sheep/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### matrices
@@ -180,7 +219,15 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
+| 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
+| 2092A | [Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2092/A%20-%20Kamilka%20and%20the%20Sheep/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2074C | [XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/C%20-%20XOR%20and%20Triangle/solution.cpp) |
 
 ### sortings
 
@@ -190,6 +237,8 @@
 | 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 2065D | [Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/D%20-%20Skibidus%20and%20Sigma/solution.cpp) |
+| 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
+| 2092A | [Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2092/A%20-%20Kamilka%20and%20the%20Sheep/solution.cpp) |
 
 ### strings
 
@@ -201,6 +250,7 @@
 | 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.cpp) |
 | 2065E | [Skibidus and Rizz](https://codeforces.com/contest/2065/problem/E) | 1600 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/E%20-%20Skibidus%20and%20Rizz/solution.cpp) |
 | 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
+| 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.cpp) |
 
 ### ternary search
 
@@ -215,6 +265,8 @@
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
 | 2069C | [Beautiful Sequence](https://codeforces.com/contest/2069/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2069/C%20-%20Beautiful%20Sequence/solution.cpp) |
+| 2074D | [Counting Points](https://codeforces.com/contest/2074/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/D%20-%20Counting%20Points/solution.cpp) |
+| 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ---
