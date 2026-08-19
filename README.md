@@ -6,44 +6,44 @@
 
 | Total Problems | Topics |
 |---|---|
-| 330 | 32 |
+| 345 | 32 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (7)
-- [binary search](#binary-search) (52)
-- [bitmasks](#bitmasks) (34)
-- [brute force](#brute-force) (75)
-- [combinatorics](#combinatorics) (28)
-- [constructive algorithms](#constructive-algorithms) (82)
-- [data structures](#data-structures) (57)
-- [dfs and similar](#dfs-and-similar) (26)
+- [Uncategorized](#uncategorized) (8)
+- [binary search](#binary-search) (53)
+- [bitmasks](#bitmasks) (36)
+- [brute force](#brute-force) (77)
+- [combinatorics](#combinatorics) (30)
+- [constructive algorithms](#constructive-algorithms) (85)
+- [data structures](#data-structures) (58)
+- [dfs and similar](#dfs-and-similar) (28)
 - [divide and conquer](#divide-and-conquer) (9)
-- [dp](#dp) (71)
-- [dsu](#dsu) (11)
+- [dp](#dp) (77)
+- [dsu](#dsu) (13)
 - [flows](#flows) (1)
 - [games](#games) (9)
-- [geometry](#geometry) (9)
+- [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (3)
-- [graphs](#graphs) (33)
-- [greedy](#greedy) (162)
+- [graphs](#graphs) (36)
+- [greedy](#greedy) (166)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (67)
+- [implementation](#implementation) (69)
 - [interactive](#interactive) (9)
-- [math](#math) (136)
+- [math](#math) (142)
 - [matrices](#matrices) (2)
-- [number theory](#number-theory) (46)
+- [number theory](#number-theory) (48)
 - [probabilities](#probabilities) (7)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (11)
-- [sortings](#sortings) (45)
-- [strings](#strings) (21)
+- [sortings](#sortings) (46)
+- [strings](#strings) (22)
 - [ternary search](#ternary-search) (2)
 - [trees](#trees) (23)
-- [two pointers](#two-pointers) (34)
+- [two pointers](#two-pointers) (35)
 
 ---
 
@@ -64,6 +64,7 @@
 | 2160D | [MAD Interactive Problem](https://codeforces.com/contest/2160/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2160/D%20-%20MAD%20Interactive%20Problem/solution.cpp) |
 | 2166C | [Cyclic Merging](https://codeforces.com/contest/2166/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2166/C%20-%20Cyclic%20Merging/solution.cpp) |
 | 2166D | [Marble Council](https://codeforces.com/contest/2166/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2166/D%20-%20Marble%20Council/solution.cpp) |
+| 2175C | [Needle in a Haystack](https://codeforces.com/contest/2175/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2175/C%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 
 ### binary search
 
@@ -73,6 +74,7 @@
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1462F | [The Treasure of The Segments](https://codeforces.com/contest/1462/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1462/F%20-%20The%20Treasure%20of%20The%20Segments/solution.cpp) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
+| 1610C | [Keshi Is Throwing a Party](https://codeforces.com/contest/1610/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1610/C%20-%20Keshi%20Is%20Throwing%20a%20Party/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1691D | [Max GEQ Sum](https://codeforces.com/contest/1691/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1691/D%20-%20Max%20GEQ%20Sum/solution.cpp) |
 | 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
@@ -130,12 +132,14 @@
 | 1491D | [Zookeeper and The Infinite Zoo](https://codeforces.com/contest/1491/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1491/D%20-%20Zookeeper%20and%20The%20Infinite%20Zoo/solution.cpp) |
 | 1513B | [AND Sequences](https://codeforces.com/contest/1513/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1513/B%20-%20AND%20Sequences/solution.cpp) |
 | 1516B | [AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/B%20-%20AGAGA%20XOOORRR/solution.cpp) |
+| 1516C | [Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/C%20-%20Baby%20Ehab%20Partitions%20Again/solution.cpp) |
 | 1571E | [Fix the String](https://codeforces.com/contest/1571/problem/E) | 1700 | [Kotlin 2.2](https://github.com/megatron144/Codeforces/blob/HEAD/1571/E%20-%20Fix%20the%20String/solution.txt) |
 | 1634B | [Fortune Telling](https://codeforces.com/contest/1634/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1634/B%20-%20Fortune%20Telling/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1731C | [Even Subarrays](https://codeforces.com/contest/1731/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1731/C%20-%20Even%20Subarrays/solution.cpp) |
 | 1732C1 | [Sheikh (Easy version)](https://codeforces.com/contest/1732/problem/C1) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1732/C1%20-%20Sheikh%20(Easy%20version)/solution.cpp) |
 | 1760G | [SlavicG's Favorite Problem](https://codeforces.com/contest/1760/problem/G) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1760/G%20-%20SlavicG's%20Favorite%20Problem/solution.cpp) |
+| 1775C | [Interesting Sequence](https://codeforces.com/contest/1775/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1775/C%20-%20Interesting%20Sequence/solution.cpp) |
 | 1829H | [Don't Blame Me](https://codeforces.com/contest/1829/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1829/H%20-%20Don't%20Blame%20Me/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
 | 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
@@ -174,6 +178,7 @@
 | 1519D | [Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/D%20-%20Maximum%20Sum%20of%20Products/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1660D | [Maximum Product Strikes Back](https://codeforces.com/contest/1660/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1660/D%20-%20Maximum%20Product%20Strikes%20Back/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
 | 1695C | [Zero Path](https://codeforces.com/contest/1695/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1695/C%20-%20Zero%20Path/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
@@ -240,6 +245,7 @@
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2166/A%20-%20Same%20Difference/solution.cpp) |
+| 2173C | [Kanade's Perfect Multiples](https://codeforces.com/contest/2173/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2173/C%20-%20Kanade's%20Perfect%20Multiples/solution.cpp) |
 
 ### combinatorics
 
@@ -248,6 +254,8 @@
 | 1442B | [Identify the Operations](https://codeforces.com/contest/1442/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1442/B%20-%20Identify%20the%20Operations/solution.cpp) |
 | 1475C | [Ball in Berland](https://codeforces.com/contest/1475/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1475/C%20-%20Ball%20in%20Berland/solution.cpp) |
 | 1513B | [AND Sequences](https://codeforces.com/contest/1513/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1513/B%20-%20AND%20Sequences/solution.cpp) |
+| 1528B | [Kavi on Pairing Duty](https://codeforces.com/contest/1528/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1528/B%20-%20Kavi%20on%20Pairing%20Duty/solution.cpp) |
+| 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1696E | [Placing Jinas](https://codeforces.com/contest/1696/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1696/E%20-%20Placing%20Jinas/solution.cpp) |
 | 1715C | [Monoblock](https://codeforces.com/contest/1715/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1715/C%20-%20Monoblock/solution.cpp) |
@@ -283,7 +291,9 @@
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1491D | [Zookeeper and The Infinite Zoo](https://codeforces.com/contest/1491/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1491/D%20-%20Zookeeper%20and%20The%20Infinite%20Zoo/solution.cpp) |
 | 1513B | [AND Sequences](https://codeforces.com/contest/1513/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1513/B%20-%20AND%20Sequences/solution.cpp) |
+| 1516C | [Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/C%20-%20Baby%20Ehab%20Partitions%20Again/solution.cpp) |
 | 1534D | [Lost Tree](https://codeforces.com/contest/1534/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1534/D%20-%20Lost%20Tree/solution.cpp) |
+| 1594D | [The Number of Imposters](https://codeforces.com/contest/1594/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1594/D%20-%20The%20Number%20of%20Imposters/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1691D | [Max GEQ Sum](https://codeforces.com/contest/1691/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1691/D%20-%20Max%20GEQ%20Sum/solution.cpp) |
 | 1709C | [Recover an RBS](https://codeforces.com/contest/1709/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1709/C%20-%20Recover%20an%20RBS/solution.cpp) |
@@ -360,6 +370,7 @@
 | 2162G | [Beautiful Tree](https://codeforces.com/contest/2162/problem/G) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/G%20-%20Beautiful%20Tree/solution.cpp) |
 | 2171E | [Anisphia Wynn Palettia and Good Permutations](https://codeforces.com/contest/2171/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/E%20-%20Anisphia%20Wynn%20Palettia%20and%20Good%20Permutations/solution.cpp) |
 | 2171F | [Rae Taylor and Trees (hard version)](https://codeforces.com/contest/2171/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/F%20-%20Rae%20Taylor%20and%20Trees%20(hard%20version)/solution.cpp) |
+| 2173C | [Kanade's Perfect Multiples](https://codeforces.com/contest/2173/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2173/C%20-%20Kanade's%20Perfect%20Multiples/solution.cpp) |
 
 ### data structures
 
@@ -379,6 +390,7 @@
 | 1462F | [The Treasure of The Segments](https://codeforces.com/contest/1462/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1462/F%20-%20The%20Treasure%20of%20The%20Segments/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
 | 1519C | [Berland Regional](https://codeforces.com/contest/1519/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/C%20-%20Berland%20Regional/solution.cpp) |
+| 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1691D | [Max GEQ Sum](https://codeforces.com/contest/1691/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1691/D%20-%20Max%20GEQ%20Sum/solution.cpp) |
 | 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
@@ -433,6 +445,8 @@
 | 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
+| 1594D | [The Number of Imposters](https://codeforces.com/contest/1594/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1594/D%20-%20The%20Number%20of%20Imposters/solution.cpp) |
+| 1702E | [Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1702/E%20-%20Split%20Into%20Two%20Sets/solution.cpp) |
 | 1760G | [SlavicG's Favorite Problem](https://codeforces.com/contest/1760/problem/G) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1760/G%20-%20SlavicG's%20Favorite%20Problem/solution.cpp) |
 | 1768D | [Lucky Permutation](https://codeforces.com/contest/1768/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1768/D%20-%20Lucky%20Permutation/solution.cpp) |
 | 1775D | [Friendly Spiders](https://codeforces.com/contest/1775/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1775/D%20-%20Friendly%20Spiders/solution.cpp) |
@@ -480,9 +494,14 @@
 | 1491D | [Zookeeper and The Infinite Zoo](https://codeforces.com/contest/1491/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1491/D%20-%20Zookeeper%20and%20The%20Infinite%20Zoo/solution.cpp) |
 | 1509C | [The Sports Festival](https://codeforces.com/contest/1509/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1509/C%20-%20The%20Sports%20Festival/solution.cpp) |
 | 1516B | [AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/B%20-%20AGAGA%20XOOORRR/solution.cpp) |
+| 1516C | [Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/C%20-%20Baby%20Ehab%20Partitions%20Again/solution.cpp) |
 | 1517D | [Explorer Space](https://codeforces.com/contest/1517/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1517/D%20-%20Explorer%20Space/solution.cpp) |
 | 1519D | [Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/D%20-%20Maximum%20Sum%20of%20Products/solution.cpp) |
+| 1528B | [Kavi on Pairing Duty](https://codeforces.com/contest/1528/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1528/B%20-%20Kavi%20on%20Pairing%20Duty/solution.cpp) |
 | 1571E | [Fix the String](https://codeforces.com/contest/1571/problem/E) | 1700 | [Kotlin 2.2](https://github.com/megatron144/Codeforces/blob/HEAD/1571/E%20-%20Fix%20the%20String/solution.txt) |
+| 1594D | [The Number of Imposters](https://codeforces.com/contest/1594/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1594/D%20-%20The%20Number%20of%20Imposters/solution.cpp) |
+| 1625C | [Road Optimization](https://codeforces.com/contest/1625/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1625/C%20-%20Road%20Optimization/solution.cpp) |
+| 1633D | [Make Them Equal](https://codeforces.com/contest/1633/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1633/D%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
@@ -490,6 +509,7 @@
 | 1692H | [Gambling](https://codeforces.com/contest/1692/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/H%20-%20Gambling/solution.cpp) |
 | 1695C | [Zero Path](https://codeforces.com/contest/1695/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1695/C%20-%20Zero%20Path/solution.cpp) |
 | 1725M | [Moving Both Hands](https://codeforces.com/contest/1725/problem/M) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1725/M%20-%20Moving%20Both%20Hands/solution.cpp) |
+| 1741E | [Sending a Sequence Over the Network](https://codeforces.com/contest/1741/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1741/E%20-%20Sending%20a%20Sequence%20Over%20the%20Network/solution.cpp) |
 | 1771B | [Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1771/B%20-%20Hossam%20and%20Friends/solution.cpp) |
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
 | 1826D | [Running Miles](https://codeforces.com/contest/1826/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1826/D%20-%20Running%20Miles/solution.cpp) |
@@ -553,6 +573,8 @@
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1442B | [Identify the Operations](https://codeforces.com/contest/1442/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1442/B%20-%20Identify%20the%20Operations/solution.cpp) |
 | 1468J | [Road Reform](https://codeforces.com/contest/1468/problem/J) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1468/J%20-%20Road%20Reform/solution.cpp) |
+| 1594D | [The Number of Imposters](https://codeforces.com/contest/1594/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1594/D%20-%20The%20Number%20of%20Imposters/solution.cpp) |
+| 1702E | [Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1702/E%20-%20Split%20Into%20Two%20Sets/solution.cpp) |
 | 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
 | 2060E | [Graph Composition](https://codeforces.com/contest/2060/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2060/E%20-%20Graph%20Composition/solution.cpp) |
@@ -585,6 +607,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
+| 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/E%20-%20Do%20You%20Love%20Your%20Hero%20and%20His%20Two-Hit%20Multi-Target%20Attacks%3F/solution.cpp) |
@@ -613,7 +636,10 @@
 | 1468J | [Road Reform](https://codeforces.com/contest/1468/problem/J) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1468/J%20-%20Road%20Reform/solution.cpp) |
 | 1475C | [Ball in Berland](https://codeforces.com/contest/1475/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1475/C%20-%20Ball%20in%20Berland/solution.cpp) |
 | 1517D | [Explorer Space](https://codeforces.com/contest/1517/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1517/D%20-%20Explorer%20Space/solution.cpp) |
+| 1594D | [The Number of Imposters](https://codeforces.com/contest/1594/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1594/D%20-%20The%20Number%20of%20Imposters/solution.cpp) |
+| 1690F | [Shifting String](https://codeforces.com/contest/1690/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1690/F%20-%20Shifting%20String/solution.cpp) |
 | 1695C | [Zero Path](https://codeforces.com/contest/1695/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1695/C%20-%20Zero%20Path/solution.cpp) |
+| 1702E | [Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1702/E%20-%20Split%20Into%20Two%20Sets/solution.cpp) |
 | 1725M | [Moving Both Hands](https://codeforces.com/contest/1725/problem/M) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1725/M%20-%20Moving%20Both%20Hands/solution.cpp) |
 | 1760G | [SlavicG's Favorite Problem](https://codeforces.com/contest/1760/problem/G) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1760/G%20-%20SlavicG's%20Favorite%20Problem/solution.cpp) |
 | 1768D | [Lucky Permutation](https://codeforces.com/contest/1768/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1768/D%20-%20Lucky%20Permutation/solution.cpp) |
@@ -670,6 +696,8 @@
 | 1519C | [Berland Regional](https://codeforces.com/contest/1519/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/C%20-%20Berland%20Regional/solution.cpp) |
 | 1520E | [Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1520/E%20-%20Arranging%20The%20Sheep/solution.cpp) |
 | 1571E | [Fix the String](https://codeforces.com/contest/1571/problem/E) | 1700 | [Kotlin 2.2](https://github.com/megatron144/Codeforces/blob/HEAD/1571/E%20-%20Fix%20the%20String/solution.txt) |
+| 1610C | [Keshi Is Throwing a Party](https://codeforces.com/contest/1610/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1610/C%20-%20Keshi%20Is%20Throwing%20a%20Party/solution.cpp) |
+| 1633D | [Make Them Equal](https://codeforces.com/contest/1633/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1633/D%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1692H | [Gambling](https://codeforces.com/contest/1692/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/H%20-%20Gambling/solution.cpp) |
 | 1695C | [Zero Path](https://codeforces.com/contest/1695/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1695/C%20-%20Zero%20Path/solution.cpp) |
@@ -806,6 +834,8 @@
 | 2171E | [Anisphia Wynn Palettia and Good Permutations](https://codeforces.com/contest/2171/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/E%20-%20Anisphia%20Wynn%20Palettia%20and%20Good%20Permutations/solution.cpp) |
 | 2171F | [Rae Taylor and Trees (hard version)](https://codeforces.com/contest/2171/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/F%20-%20Rae%20Taylor%20and%20Trees%20(hard%20version)/solution.cpp) |
 | 2171G | [Sakura Adachi and Optimal Sequences](https://codeforces.com/contest/2171/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/G%20-%20Sakura%20Adachi%20and%20Optimal%20Sequences/solution.cpp) |
+| 2173C | [Kanade's Perfect Multiples](https://codeforces.com/contest/2173/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2173/C%20-%20Kanade's%20Perfect%20Multiples/solution.cpp) |
+| 2176C | [Odd Process](https://codeforces.com/contest/2176/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2176/C%20-%20Odd%20Process/solution.cpp) |
 
 ### hashing
 
@@ -829,7 +859,9 @@
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1442B | [Identify the Operations](https://codeforces.com/contest/1442/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1442/B%20-%20Identify%20the%20Operations/solution.cpp) |
 | 1519D | [Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/D%20-%20Maximum%20Sum%20of%20Products/solution.cpp) |
+| 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1660D | [Maximum Product Strikes Back](https://codeforces.com/contest/1660/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1660/D%20-%20Maximum%20Product%20Strikes%20Back/solution.cpp) |
 | 1691D | [Max GEQ Sum](https://codeforces.com/contest/1691/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1691/D%20-%20Max%20GEQ%20Sum/solution.cpp) |
 | 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
 | 1709C | [Recover an RBS](https://codeforces.com/contest/1709/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1709/C%20-%20Recover%20an%20RBS/solution.cpp) |
@@ -923,19 +955,25 @@
 | 1475C | [Ball in Berland](https://codeforces.com/contest/1475/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1475/C%20-%20Ball%20in%20Berland/solution.cpp) |
 | 1491D | [Zookeeper and The Infinite Zoo](https://codeforces.com/contest/1491/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1491/D%20-%20Zookeeper%20and%20The%20Infinite%20Zoo/solution.cpp) |
 | 1513B | [AND Sequences](https://codeforces.com/contest/1513/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1513/B%20-%20AND%20Sequences/solution.cpp) |
+| 1516C | [Baby Ehab Partitions Again](https://codeforces.com/contest/1516/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/C%20-%20Baby%20Ehab%20Partitions%20Again/solution.cpp) |
 | 1519D | [Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/D%20-%20Maximum%20Sum%20of%20Products/solution.cpp) |
 | 1520E | [Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1520/E%20-%20Arranging%20The%20Sheep/solution.cpp) |
+| 1528B | [Kavi on Pairing Duty](https://codeforces.com/contest/1528/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1528/B%20-%20Kavi%20on%20Pairing%20Duty/solution.cpp) |
+| 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
 | 1634B | [Fortune Telling](https://codeforces.com/contest/1634/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1634/B%20-%20Fortune%20Telling/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1660D | [Maximum Product Strikes Back](https://codeforces.com/contest/1660/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1660/D%20-%20Maximum%20Product%20Strikes%20Back/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
+| 1690F | [Shifting String](https://codeforces.com/contest/1690/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1690/F%20-%20Shifting%20String/solution.cpp) |
 | 1692H | [Gambling](https://codeforces.com/contest/1692/problem/H) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/H%20-%20Gambling/solution.cpp) |
 | 1696E | [Placing Jinas](https://codeforces.com/contest/1696/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1696/E%20-%20Placing%20Jinas/solution.cpp) |
 | 1709D | [Rorororobot](https://codeforces.com/contest/1709/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1709/D%20-%20Rorororobot/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
 | 1715C | [Monoblock](https://codeforces.com/contest/1715/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1715/C%20-%20Monoblock/solution.cpp) |
 | 1731C | [Even Subarrays](https://codeforces.com/contest/1731/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1731/C%20-%20Even%20Subarrays/solution.cpp) |
+| 1775C | [Interesting Sequence](https://codeforces.com/contest/1775/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1775/C%20-%20Interesting%20Sequence/solution.cpp) |
 | 1775D | [Friendly Spiders](https://codeforces.com/contest/1775/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1775/D%20-%20Friendly%20Spiders/solution.cpp) |
 | 1776L | [Controllers](https://codeforces.com/contest/1776/problem/L) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1776/L%20-%20Controllers/solution.cpp) |
 | 1777C | [Quiz Master](https://codeforces.com/contest/1777/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1777/C%20-%20Quiz%20Master/solution.cpp) |
@@ -1062,6 +1100,7 @@
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
 | 1519C | [Berland Regional](https://codeforces.com/contest/1519/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/C%20-%20Berland%20Regional/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
+| 1690F | [Shifting String](https://codeforces.com/contest/1690/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1690/F%20-%20Shifting%20String/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
 | 1731C | [Even Subarrays](https://codeforces.com/contest/1731/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1731/C%20-%20Even%20Subarrays/solution.cpp) |
 | 1759D | [Make It Round](https://codeforces.com/contest/1759/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1759/D%20-%20Make%20It%20Round/solution.cpp) |
@@ -1099,6 +1138,7 @@
 | 2156C | [Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/C%20-%20Maximum%20GCD%20on%20Whiteboard/solution.cpp) |
 | 2169D1 | [Removal of a Sequence (Easy Version)](https://codeforces.com/contest/2169/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2169/D1%20-%20Removal%20of%20a%20Sequence%20(Easy%20Version)/solution.cpp) |
 | 2171E | [Anisphia Wynn Palettia and Good Permutations](https://codeforces.com/contest/2171/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/E%20-%20Anisphia%20Wynn%20Palettia%20and%20Good%20Permutations/solution.cpp) |
+| 2173C | [Kanade's Perfect Multiples](https://codeforces.com/contest/2173/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2173/C%20-%20Kanade's%20Perfect%20Multiples/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### probabilities
@@ -1185,6 +1225,7 @@
 | 2137F | [Prefix Maximum Invariance](https://codeforces.com/contest/2137/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2137/F%20-%20Prefix%20Maximum%20Invariance/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
+| 2176C | [Odd Process](https://codeforces.com/contest/2176/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2176/C%20-%20Odd%20Process/solution.cpp) |
 
 ### strings
 
@@ -1193,6 +1234,7 @@
 | 584C | [Marina and Vasya](https://codeforces.com/contest/584/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/584/C%20-%20Marina%20and%20Vasya/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1446B | [Catching Cheaters](https://codeforces.com/contest/1446/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1446/B%20-%20Catching%20Cheaters/solution.cpp) |
+| 1690F | [Shifting String](https://codeforces.com/contest/1690/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1690/F%20-%20Shifting%20String/solution.cpp) |
 | 1709C | [Recover an RBS](https://codeforces.com/contest/1709/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1709/C%20-%20Recover%20an%20RBS/solution.cpp) |
 | 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
@@ -1254,6 +1296,7 @@
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1519D | [Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/D%20-%20Maximum%20Sum%20of%20Products/solution.cpp) |
+| 1660D | [Maximum Product Strikes Back](https://codeforces.com/contest/1660/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1660/D%20-%20Maximum%20Product%20Strikes%20Back/solution.cpp) |
 | 1691D | [Max GEQ Sum](https://codeforces.com/contest/1691/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1691/D%20-%20Max%20GEQ%20Sum/solution.cpp) |
 | 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
 | 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
