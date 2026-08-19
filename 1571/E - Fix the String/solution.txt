@@ -1,0 +1,55 @@
+import java.io.BufferedReader
+import java.io.InputStreamReader
+import java.util.StringTokenizer
+import kotlin.math.min
+ 
+fun solve() {
+    val n = readInt()
+    val s = StringBuilder(readLn())
+    val m = n - 3
+    val v = readLn()
+    var cnt = 0
+    val s1 = "()()"
+    val s2 = "(())"
+ 
+    for (i in 0 until m) {
+        if (v[i] == '1') {
+            if ((i + 1 < m && v[i + 1] == '1') || (i + 3 < m && v[i + 3] == '1')) {
+                println(-1)
+                return
+            }
+            var inv1 = 0
+            var inv2 = 0
+            for (j in i until i + 4) {
+                if (s1[j - i] != s[j]) inv1++
+                if (s2[j - i] != s[j]) inv2++
+            }
+            if (i + 2 < m && v[i + 2] == '1') {
+                s.setCharAt(i + 2, '(')
+                s.setCharAt(i + 3, ')')
+                cnt += inv1
+            } else {
+                cnt += min(inv1, inv2)
+            }
+        }
+    }
+    println(cnt)
+}
+ 
+fun main() {
+    val t = readInt()
+    repeat(t) { solve() }
+}
+ 
+// ---------- Fast IO ----------
+private val br = BufferedReader(InputStreamReader(System.`in`))
+private var st: StringTokenizer? = null
+ 
+private fun readLn(): String {
+    while (st == null || !st!!.hasMoreTokens()) {
+        st = StringTokenizer(br.readLine())
+    }
+    return st!!.nextToken()
+}
+ 
+private fun readInt() = readLn().toInt()
