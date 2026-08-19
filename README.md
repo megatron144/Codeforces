@@ -6,41 +6,41 @@
 
 | Total Problems | Topics |
 |---|---|
-| 136 | 29 |
+| 151 | 29 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (27)
+- [binary search](#binary-search) (29)
 - [bitmasks](#bitmasks) (11)
-- [brute force](#brute-force) (32)
-- [combinatorics](#combinatorics) (6)
-- [constructive algorithms](#constructive-algorithms) (34)
-- [data structures](#data-structures) (19)
-- [dfs and similar](#dfs-and-similar) (3)
+- [brute force](#brute-force) (35)
+- [combinatorics](#combinatorics) (7)
+- [constructive algorithms](#constructive-algorithms) (36)
+- [data structures](#data-structures) (22)
+- [dfs and similar](#dfs-and-similar) (6)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (22)
-- [dsu](#dsu) (3)
+- [dp](#dp) (23)
+- [dsu](#dsu) (4)
 - [games](#games) (3)
-- [geometry](#geometry) (6)
+- [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (3)
-- [greedy](#greedy) (75)
-- [hashing](#hashing) (1)
-- [implementation](#implementation) (28)
+- [graphs](#graphs) (5)
+- [greedy](#greedy) (82)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (30)
 - [interactive](#interactive) (1)
-- [math](#math) (54)
-- [matrices](#matrices) (1)
-- [number theory](#number-theory) (16)
+- [math](#math) (61)
+- [matrices](#matrices) (2)
+- [number theory](#number-theory) (20)
 - [probabilities](#probabilities) (1)
-- [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (19)
+- [shortest paths](#shortest-paths) (4)
+- [sortings](#sortings) (22)
 - [strings](#strings) (12)
 - [ternary search](#ternary-search) (1)
-- [trees](#trees) (3)
-- [two pointers](#two-pointers) (15)
+- [trees](#trees) (5)
+- [two pointers](#two-pointers) (17)
 
 ---
 
@@ -57,9 +57,11 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
 | 1771B | [Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1771/B%20-%20Hossam%20and%20Friends/solution.cpp) |
 | 1776L | [Controllers](https://codeforces.com/contest/1776/problem/L) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1776/L%20-%20Controllers/solution.cpp) |
 | 1795C | [Tea Tasting](https://codeforces.com/contest/1795/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1795/C%20-%20Tea%20Tasting/solution.cpp) |
@@ -111,10 +113,13 @@
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
+| 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
+| 1759D | [Make It Round](https://codeforces.com/contest/1759/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1759/D%20-%20Make%20It%20Round/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+| 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
@@ -142,6 +147,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2069C | [Beautiful Sequence](https://codeforces.com/contest/2069/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2069/C%20-%20Beautiful%20Sequence/solution.cpp) |
 | 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
@@ -154,6 +160,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 584C | [Marina and Vasya](https://codeforces.com/contest/584/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/584/C%20-%20Marina%20and%20Vasya/solution.cpp) |
+| 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1534D | [Lost Tree](https://codeforces.com/contest/1534/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1534/D%20-%20Lost%20Tree/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1771B | [Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1771/B%20-%20Hossam%20and%20Friends/solution.cpp) |
@@ -187,13 +194,17 @@
 | 2118A | [Equal Subsequences](https://codeforces.com/contest/2118/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2118/A%20-%20Equal%20Subsequences/solution.cpp) |
 | 2118B | [Make It Permutation](https://codeforces.com/contest/2118/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2118/B%20-%20Make%20It%20Permutation/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
+| 2130B | [Pathless](https://codeforces.com/contest/2130/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2130/B%20-%20Pathless/solution.cpp) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
+| 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
+| 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
 | 1795C | [Tea Tasting](https://codeforces.com/contest/1795/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1795/C%20-%20Tea%20Tasting/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
 | 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
@@ -217,6 +228,9 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 472D | [Design Tutorial: Inverse the Problem](https://codeforces.com/contest/472/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/472/D%20-%20Design%20Tutorial%3A%20Inverse%20the%20Problem/solution.cpp) |
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+| 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
+| 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 2110D | [Fewer Batteries](https://codeforces.com/contest/2110/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2110/D%20-%20Fewer%20Batteries/solution.cpp) |
 
@@ -235,6 +249,7 @@
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
+| 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
 | 1771B | [Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1771/B%20-%20Hossam%20and%20Friends/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
 | 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
@@ -258,6 +273,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 472D | [Design Tutorial: Inverse the Problem](https://codeforces.com/contest/472/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/472/D%20-%20Design%20Tutorial%3A%20Inverse%20the%20Problem/solution.cpp) |
+| 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 2108C | [Neo's Escape](https://codeforces.com/contest/2108/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2108/C%20-%20Neo's%20Escape/solution.cpp) |
 
@@ -274,6 +290,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
+| 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
@@ -290,6 +307,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+| 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 2108C | [Neo's Escape](https://codeforces.com/contest/2108/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2108/C%20-%20Neo's%20Escape/solution.cpp) |
 | 2110D | [Fewer Batteries](https://codeforces.com/contest/2110/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2110/D%20-%20Fewer%20Batteries/solution.cpp) |
@@ -300,12 +319,17 @@
 |---|---------|------------|----------|
 | 472C | [Design Tutorial: Make It Nondeterministic](https://codeforces.com/contest/472/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/472/C%20-%20Design%20Tutorial%3A%20Make%20It%20Nondeterministic/solution.cpp) |
 | 584C | [Marina and Vasya](https://codeforces.com/contest/584/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/584/C%20-%20Marina%20and%20Vasya/solution.cpp) |
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+| 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
+| 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
+| 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
 | 1516B | [AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/B%20-%20AGAGA%20XOOORRR/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
 | 1837D | [Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1837/D%20-%20Bracket%20Coloring/solution.cpp) |
 | 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
@@ -372,12 +396,15 @@
 | 2117E | [Lost Soul](https://codeforces.com/contest/2117/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2117/E%20-%20Lost%20Soul/solution.cpp) |
 | 2118A | [Equal Subsequences](https://codeforces.com/contest/2118/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2118/A%20-%20Equal%20Subsequences/solution.cpp) |
 | 2118C | [Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2118/C%20-%20Make%20It%20Beautiful/solution.cpp) |
+| 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.cpp) |
+| 2130A | [Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2130/A%20-%20Submission%20is%20All%20You%20Need/solution.cpp) |
 
 ### hashing
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
 | 2110D | [Fewer Batteries](https://codeforces.com/contest/2110/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2110/D%20-%20Fewer%20Batteries/solution.cpp) |
 
 ### implementation
@@ -386,9 +413,11 @@
 |---|---------|------------|----------|
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
+| 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
 | 1795C | [Tea Tasting](https://codeforces.com/contest/1795/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1795/C%20-%20Tea%20Tasting/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
@@ -428,13 +457,19 @@
 | 584D | [Dima and Lisa](https://codeforces.com/contest/584/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/584/D%20-%20Dima%20and%20Lisa/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
 | 742B | [Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/742/B%20-%20Arpa%E2%80%99s%20obvious%20problem%20and%20Mehrdad%E2%80%99s%20terrible%20solution/solution.cpp) |
+| 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
+| 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
+| 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 1646C | [Factorials and Powers of Two](https://codeforces.com/contest/1646/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1646/C%20-%20Factorials%20and%20Powers%20of%20Two/solution.cpp) |
+| 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
+| 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
 | 1776L | [Controllers](https://codeforces.com/contest/1776/problem/L) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1776/L%20-%20Controllers/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
@@ -476,12 +511,14 @@
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2126E | [G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2126/E%20-%20G-C-D%2C%20Unlucky!/solution.cpp) |
+| 2130A | [Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2130/A%20-%20Submission%20is%20All%20You%20Need/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### matrices
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 2069B | [Set of Strangers](https://codeforces.com/contest/2069/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2069/B%20-%20Set%20of%20Strangers/solution.cpp) |
 
 ### number theory
@@ -492,8 +529,12 @@
 | 584D | [Dima and Lisa](https://codeforces.com/contest/584/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/584/D%20-%20Dima%20and%20Lisa/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
 | 742B | [Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/742/B%20-%20Arpa%E2%80%99s%20obvious%20problem%20and%20Mehrdad%E2%80%99s%20terrible%20solution/solution.cpp) |
+| 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
+| 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
+| 1759D | [Make It Round](https://codeforces.com/contest/1759/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1759/D%20-%20Make%20It%20Round/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
+| 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 2084B | [MIN = GCD](https://codeforces.com/contest/2084/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2084/B%20-%20MIN%20%3D%20GCD/solution.cpp) |
 | 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
 | 2092A | [Kamilka and the Sheep](https://codeforces.com/contest/2092/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2092/A%20-%20Kamilka%20and%20the%20Sheep/solution.cpp) |
@@ -516,6 +557,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 472D | [Design Tutorial: Inverse the Problem](https://codeforces.com/contest/472/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/472/D%20-%20Design%20Tutorial%3A%20Inverse%20the%20Problem/solution.cpp) |
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
 
@@ -525,6 +567,8 @@
 |---|---------|------------|----------|
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
+| 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
+| 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
@@ -541,6 +585,7 @@
 | 2111D | [Creating a Schedule](https://codeforces.com/contest/2111/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2111/D%20-%20Creating%20a%20Schedule/solution.cpp) |
 | 2116B | [Gellyfish and Baby's Breath](https://codeforces.com/contest/2116/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2116/B%20-%20Gellyfish%20and%20Baby's%20Breath/solution.cpp) |
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
+| 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.cpp) |
 
 ### strings
@@ -571,6 +616,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 472D | [Design Tutorial: Inverse the Problem](https://codeforces.com/contest/472/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/472/D%20-%20Design%20Tutorial%3A%20Inverse%20the%20Problem/solution.cpp) |
+| 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
+| 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
 | 1534D | [Lost Tree](https://codeforces.com/contest/1534/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1534/D%20-%20Lost%20Tree/solution.cpp) |
 
@@ -579,6 +626,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
+| 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
+| 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
 | 1771B | [Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1771/B%20-%20Hossam%20and%20Friends/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
