@@ -1,0 +1,18 @@
+<h2><a href="https://codeforces.com/contest/1970/problem/C2" target="_blank" rel="noopener noreferrer">1970C2 — Game on Tree (Medium)</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1700 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1970C2](https://codeforces.com/contest/1970/problem/C2) |
+
+## Topics
+`dfs and similar` `dp` `games` `trees`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C2. Game on Tree (Medium)</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p><span class="tex-font-style-bf">This is the medium version of the problem. The difference in this version is that $$$t=1$$$ and we work on trees.</span></p><p>Ron and Hermione are playing a game on a tree of $$$n$$$ nodes that are initially inactive. The game consists of $$$t$$$ rounds, each of which starts with a stone on exactly one node, which is considered as activated. A move consists of picking an inactive neighbor of the node with a stone on it and moving the stone there (thus activating this neighbor). Ron makes the first move, after which he alternates with Hermione until no valid move is available. The player that cannot make a move loses the round. If both players play optimally, who wins each round of this game? </p><p>Note that all the rounds are played with the same tree; only the starting node changes. Moreover, after each round, all active nodes are considered inactive again.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains integers $$$n$$$ ($$$2 \leq n \leq 2\times 10^5$$$), $$$t$$$ ($$$t=1$$$), the number of nodes in the tree and the number of rounds, respectively.</p><p>The next $$$n-1$$$ lines contain two integers $$$1 \leq u, v \leq n$$$ each, corresponding to an edge of the tree.</p><p>The next line contains $$$t$$$ integers $$$1 \leq u_1 , \dots, u_t \leq n$$$, corresponding to the node where the stone is initially put.</p></div><div class="output-specification"><div class="section-title">Output</div><p>The output consists of $$$t=1$$$ line which is either "Ron" or "Hermione".</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00547512251610179" id="id0043334953438189194" class="input-output-copier">Copy</div></div><pre id="id00547512251610179"><div class="test-example-line test-example-line-even test-example-line-0">5 1</div><div class="test-example-line test-example-line-even test-example-line-0">1 2</div><div class="test-example-line test-example-line-even test-example-line-0">1 3</div><div class="test-example-line test-example-line-even test-example-line-0">3 4</div><div class="test-example-line test-example-line-even test-example-line-0">3 5</div><div class="test-example-line test-example-line-even test-example-line-0">1</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004745514259269401" id="id007525588291518199" class="input-output-copier">Copy</div></div><pre id="id004745514259269401">Ron
+</pre></div></div></div>
