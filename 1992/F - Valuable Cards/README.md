@@ -1,0 +1,25 @@
+<h2><a href="https://codeforces.com/contest/1992/problem/F" target="_blank" rel="noopener noreferrer">1992F — Valuable Cards</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1900 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1992F](https://codeforces.com/contest/1992/problem/F) |
+
+## Topics
+`brute force` `dp` `greedy` `number theory` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">F. Valuable Cards</div><div class="time-limit"><div class="property-title">time limit per test</div>4 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>In his favorite cafe Kmes once again wanted to try the herring under a fur coat. Previously, it would not have been difficult for him to do this, but the cafe recently introduced a new purchasing policy.</p><p>Now, in order to make a purchase, Kmes needs to solve the following problem: $$$n$$$ cards with prices for different positions are laid out in front of him, on the $$$i$$$-th card there is an integer $$$a_i$$$, among these prices there is no whole positive integer $$$x$$$.</p><p>Kmes is asked to divide these cards into the minimum number of <span class="tex-font-style-it">bad</span> segments (so that each card belongs to exactly one segment). A segment is considered <span class="tex-font-style-it">bad</span> if it is impossible to select a subset of cards with a product equal to $$$x$$$. All segments, in which Kmes will divide the cards, must be <span class="tex-font-style-it">bad</span>.</p><p>Formally, the segment $$$(l, r)$$$ is <span class="tex-font-style-it">bad</span> if there are no indices $$$i_1  \lt  i_2  \lt  \ldots  \lt  i_k$$$ such that $$$l \le i_1, i_k \le r$$$, and $$$a_{i_1} \cdot a_{i_2} \ldots \cdot a_{i_k} = x$$$.</p><p>Help Kmes determine the minimum number of <span class="tex-font-style-it">bad</span> segments in order to enjoy his favorite dish.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 10^3$$$) — the number of test cases.</p><p>The first line of each set of input data gives you $$$2$$$ integers $$$n$$$ and $$$x$$$ ($$$1 \le n \le 10^5, 2 \le x \le 10^5$$$) — the number of cards and the integer, respectively.</p><p>The second line of each set of input data contains $$$n$$$ integers $$$a_i$$$ ($$$1 \le a_i \le 2 \cdot 10^5, a_i \neq x$$$) — the prices on the cards.</p><p>It is guaranteed that the sum of $$$n$$$ over all sets of test data does not exceed $$$10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each set of input data, output the minimum number of <span class="tex-font-style-it">bad</span> segments.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007720881510339876" id="id003824595355372912" class="input-output-copier">Copy</div></div><pre id="id007720881510339876"><div class="test-example-line test-example-line-even test-example-line-0">8</div><div class="test-example-line test-example-line-odd test-example-line-1">6 4</div><div class="test-example-line test-example-line-odd test-example-line-1">2 3 6 2 1 2</div><div class="test-example-line test-example-line-even test-example-line-2">9 100000</div><div class="test-example-line test-example-line-even test-example-line-2">50000 25000 12500 6250 3125 2 4 8 16</div><div class="test-example-line test-example-line-odd test-example-line-3">5 2</div><div class="test-example-line test-example-line-odd test-example-line-3">1 1 1 1 1</div><div class="test-example-line test-example-line-even test-example-line-4">8 6</div><div class="test-example-line test-example-line-even test-example-line-4">4 3 4 3 4 3 4 3</div><div class="test-example-line test-example-line-odd test-example-line-5">7 12</div><div class="test-example-line test-example-line-odd test-example-line-5">6 11 1 3 11 10 2</div><div class="test-example-line test-example-line-even test-example-line-6">10 5</div><div class="test-example-line test-example-line-even test-example-line-6">2 4 4 2 4 4 4 3 1 1</div><div class="test-example-line test-example-line-odd test-example-line-7">7 8</div><div class="test-example-line test-example-line-odd test-example-line-7">4 6 5 1 2 4 1</div><div class="test-example-line test-example-line-even test-example-line-8">8 27</div><div class="test-example-line test-example-line-even test-example-line-8">3 9 17 26 2 20 9 3</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007847605107488628" id="id004856862935381252" class="input-output-copier">Copy</div></div><pre id="id007847605107488628">3
+2
+1
+1
+2
+1
+3
+3
+</pre></div></div></div>
