@@ -1,0 +1,40 @@
+<h2><a href="https://codeforces.com/contest/2072/problem/E" target="_blank" rel="noopener noreferrer">2072E — Do You Love Your Hero and His Two-Hit Multi-Target Attacks?</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1500 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2072E](https://codeforces.com/contest/2072/problem/E) |
+
+## Topics
+`binary search` `brute force` `constructive algorithms` `dp` `geometry` `greedy` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">E. Do You Love Your Hero and His Two-Hit Multi-Target Attacks?</div><div class="time-limit"><div class="property-title">time limit per test</div>3 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Akito decided to study a new powerful spell. Since it possesses immeasurable strength, it certainly requires a lot of space and careful preparation. For this, Akito went out into the field. Let's represent the field as a Cartesian coordinate system.</p><p>For the spell, Akito needs to place $$$0 \le n \le 500$$$ staffs at <span class="tex-font-style-bf">distinct integer coordinates</span> in the field such that there will be <span class="tex-font-style-bf">exactly $$$k$$$ pairs</span> $$$(i, j)$$$ such that $$$1 \le i  \lt  j \le n$$$ and $$$\rho(i, j) = d(i, j)$$$.</p><p>Here, for two points with integer coordinates $$$a = (x_a, y_a)$$$ and $$$b = (x_b, y_b)$$$, $$$\rho(a, b) = \sqrt{(x_a - x_b)^2 + (y_a - y_b)^2}$$$ and $$$d(a, b) = |x_a - x_b| + |y_a - y_b|$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input contains a single number $$$t$$$ ($$$1 \le t \le 1000$$$) — the number of test cases.</p><p>In the only line of each test case, there is a single number $$$k$$$ ($$$0 \le k \le 10^5$$$) — the number of pairs of staffs for which the equality $$$\rho(i, j) = d(i, j)$$$ must hold.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, the first line of output should print the number $$$n$$$ ($$$0 \le n \le 500$$$) — the number of placed staffs.</p><p>In the following $$$n$$$ lines, pairs of <span class="tex-font-style-bf">integers</span> $$$x_i, y_i$$$ $$$(-10^9 \le x_i, y_i \le 10^9)$$$ should be printed — the coordinates of the $$$i$$$-th staff. The points in which staffs stand must be distinct.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005814253657159292" id="id003364697105132387" class="input-output-copier">Copy</div></div><pre id="id005814253657159292"><div class="test-example-line test-example-line-even test-example-line-0">3</div><div class="test-example-line test-example-line-odd test-example-line-1">0</div><div class="test-example-line test-example-line-even test-example-line-2">2</div><div class="test-example-line test-example-line-odd test-example-line-3">5</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0029740674392909516" id="id004877920947235338" class="input-output-copier">Copy</div></div><pre id="id0029740674392909516">6
+69 52
+4 20
+789 9308706
+1337 1337
+-1234 -5678
+23456178 707
+10
+-236 -346262358
+273568 6435267
+2365437 31441367
+246574 -45642372
+-236 56
+4743623 -192892 
+10408080 -8173135
+-237415357 31441367
+-78125638 278
+56 143231
+5
+1 1
+2 1
+1 5
+3 5
+1 10</pre></div></div></div>
