@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 285 | 32 |
+| 300 | 32 |
 
 ---
 
@@ -14,36 +14,36 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (43)
+- [binary search](#binary-search) (46)
 - [bitmasks](#bitmasks) (27)
-- [brute force](#brute-force) (64)
-- [combinatorics](#combinatorics) (22)
-- [constructive algorithms](#constructive-algorithms) (71)
-- [data structures](#data-structures) (46)
-- [dfs and similar](#dfs-and-similar) (21)
-- [divide and conquer](#divide-and-conquer) (7)
+- [brute force](#brute-force) (69)
+- [combinatorics](#combinatorics) (23)
+- [constructive algorithms](#constructive-algorithms) (76)
+- [data structures](#data-structures) (48)
+- [dfs and similar](#dfs-and-similar) (25)
+- [divide and conquer](#divide-and-conquer) (8)
 - [dp](#dp) (62)
 - [dsu](#dsu) (9)
 - [flows](#flows) (1)
-- [games](#games) (5)
+- [games](#games) (6)
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (3)
-- [graphs](#graphs) (28)
-- [greedy](#greedy) (136)
+- [graphs](#graphs) (31)
+- [greedy](#greedy) (145)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (59)
-- [interactive](#interactive) (7)
-- [math](#math) (115)
+- [implementation](#implementation) (62)
+- [interactive](#interactive) (9)
+- [math](#math) (120)
 - [matrices](#matrices) (2)
-- [number theory](#number-theory) (36)
+- [number theory](#number-theory) (40)
 - [probabilities](#probabilities) (7)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (10)
-- [sortings](#sortings) (40)
-- [strings](#strings) (19)
-- [ternary search](#ternary-search) (1)
-- [trees](#trees) (18)
-- [two pointers](#two-pointers) (27)
+- [sortings](#sortings) (42)
+- [strings](#strings) (20)
+- [ternary search](#ternary-search) (2)
+- [trees](#trees) (21)
+- [two pointers](#two-pointers) (29)
 
 ---
 
@@ -87,6 +87,8 @@
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1935D | [Exam in MAC](https://codeforces.com/contest/1935/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1935/D%20-%20Exam%20in%20MAC/solution.cpp) |
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
+| 1999G1 | [Ruler (easy version)](https://codeforces.com/contest/1999/problem/G1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1999/G1%20-%20Ruler%20(easy%20version)/solution.cpp) |
+| 1999G2 | [Ruler (hard version)](https://codeforces.com/contest/1999/problem/G2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1999/G2%20-%20Ruler%20(hard%20version)/solution.cpp) |
 | 2009G1 | [Yunli's Subarray Queries (easy version)](https://codeforces.com/contest/2009/problem/G1) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2009/G1%20-%20Yunli's%20Subarray%20Queries%20(easy%20version)/solution.cpp) |
 | 2044F | [Easy Demon Problem](https://codeforces.com/contest/2044/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2044/F%20-%20Easy%20Demon%20Problem/solution.cpp) |
 | 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
@@ -109,6 +111,7 @@
 | 2132D | [From 1 to Infinity](https://codeforces.com/contest/2132/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2132/D%20-%20From%201%20to%20Infinity/solution.cpp) |
 | 2137F | [Prefix Maximum Invariance](https://codeforces.com/contest/2137/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2137/F%20-%20Prefix%20Maximum%20Invariance/solution.cpp) |
 | 2145C | [Monocarp's String](https://codeforces.com/contest/2145/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2145/C%20-%20Monocarp's%20String/solution.cpp) |
+| 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### bitmasks
@@ -167,10 +170,13 @@
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1907/E%20-%20Good%20Triples/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
+| 1948D | [Tandem Repeats?](https://codeforces.com/contest/1948/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1948/D%20-%20Tandem%20Repeats%3F/solution.cpp) |
 | 1949E | [Damage per Second](https://codeforces.com/contest/1949/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1949/E%20-%20Damage%20per%20Second/solution.cpp) |
 | 1957D | [A BIT of an Inequality](https://codeforces.com/contest/1957/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1957/D%20-%20A%20BIT%20of%20an%20Inequality/solution.cpp) |
+| 1982D | [Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1982/D%20-%20Beauty%20of%20the%20mountains/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 1992F | [Valuable Cards](https://codeforces.com/contest/1992/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1992/F%20-%20Valuable%20Cards/solution.cpp) |
+| 2018C | [Tree Pruning](https://codeforces.com/contest/2018/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2018/C%20-%20Tree%20Pruning/solution.cpp) |
 | 2041D | [Drunken Maze](https://codeforces.com/contest/2041/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2041/D%20-%20Drunken%20Maze/solution.cpp) |
 | 2044F | [Easy Demon Problem](https://codeforces.com/contest/2044/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2044/F%20-%20Easy%20Demon%20Problem/solution.cpp) |
 | 2064C | [Remove the Ends](https://codeforces.com/contest/2064/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/C%20-%20Remove%20the%20Ends/solution.cpp) |
@@ -211,6 +217,8 @@
 | 2144D | [Price Tags](https://codeforces.com/contest/2144/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2144/D%20-%20Price%20Tags/solution.cpp) |
 | 2155C | [The Ancient Wizards' Capes](https://codeforces.com/contest/2155/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/C%20-%20The%20Ancient%20Wizards'%20Capes/solution.cpp) |
 | 2155D | [Batteries](https://codeforces.com/contest/2155/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/D%20-%20Batteries/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 
 ### combinatorics
 
@@ -228,6 +236,7 @@
 | 1912K | [Kim's Quest](https://codeforces.com/contest/1912/problem/K) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1912/K%20-%20Kim's%20Quest/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1925D | [Good Trip](https://codeforces.com/contest/1925/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1925/D%20-%20Good%20Trip/solution.cpp) |
+| 1931F | [Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1931/F%20-%20Chat%20Screenshots/solution.cpp) |
 | 1935D | [Exam in MAC](https://codeforces.com/contest/1935/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1935/D%20-%20Exam%20in%20MAC/solution.cpp) |
 | 2069C | [Beautiful Sequence](https://codeforces.com/contest/2069/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2069/C%20-%20Beautiful%20Sequence/solution.cpp) |
 | 2072B | [Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2072/B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past%2C%20I%20Help%20Goblins%20Deceive/solution.cpp) |
@@ -261,7 +270,9 @@
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
+| 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
+| 2006A | [Iris and Game on the Tree](https://codeforces.com/contest/2006/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2006/A%20-%20Iris%20and%20Game%20on%20the%20Tree/solution.cpp) |
 | 2052F | [Fix Flooded Floor](https://codeforces.com/contest/2052/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2052/F%20-%20Fix%20Flooded%20Floor/solution.cpp) |
 | 2057C | [Trip to the Olympiad](https://codeforces.com/contest/2057/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2057/C%20-%20Trip%20to%20the%20Olympiad/solution.cpp) |
 | 2064B | [Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/B%20-%20Variety%20is%20Discouraged/solution.cpp) |
@@ -308,8 +319,11 @@
 | 2146D1 | [Max Sum OR (Easy Version)](https://codeforces.com/contest/2146/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2146/D1%20-%20Max%20Sum%20OR%20(Easy%20Version)/solution.cpp) |
 | 2146D2 | [Max Sum OR (Hard Version)](https://codeforces.com/contest/2146/problem/D2) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2146/D2%20-%20Max%20Sum%20OR%20(Hard%20Version)/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
+| 2154B | [Make it Zigzag](https://codeforces.com/contest/2154/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/B%20-%20Make%20it%20Zigzag/solution.cpp) |
+| 2154D | [Catshock](https://codeforces.com/contest/2154/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/D%20-%20Catshock/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
 | 2155D | [Batteries](https://codeforces.com/contest/2155/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/D%20-%20Batteries/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2159A | [MAD Interactive Problem](https://codeforces.com/contest/2159/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2159/A%20-%20MAD%20Interactive%20Problem/solution.cpp) |
 | 2162E | [Beautiful Palindromes](https://codeforces.com/contest/2162/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/E%20-%20Beautiful%20Palindromes/solution.cpp) |
 | 2162F | [Beautiful Intervals](https://codeforces.com/contest/2162/problem/F) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/F%20-%20Beautiful%20Intervals/solution.cpp) |
@@ -348,6 +362,8 @@
 | 1932F | [Feed Cats](https://codeforces.com/contest/1932/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1932/F%20-%20Feed%20Cats/solution.cpp) |
 | 1955D | [Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1955/D%20-%20Inaccurate%20Subsequence%20Search/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
+| 1982D | [Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1982/D%20-%20Beauty%20of%20the%20mountains/solution.cpp) |
+| 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 2009G1 | [Yunli's Subarray Queries (easy version)](https://codeforces.com/contest/2009/problem/G1) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2009/G1%20-%20Yunli's%20Subarray%20Queries%20(easy%20version)/solution.cpp) |
 | 2014H | [Robin Hood Archery](https://codeforces.com/contest/2014/problem/H) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2014/H%20-%20Robin%20Hood%20Archery/solution.cpp) |
 | 2044F | [Easy Demon Problem](https://codeforces.com/contest/2044/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2044/F%20-%20Easy%20Demon%20Problem/solution.cpp) |
@@ -381,8 +397,11 @@
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
 | 1824B2 | [LuoTianyi and the Floating Islands (Hard Version)](https://codeforces.com/contest/1824/problem/B2) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1824/B2%20-%20LuoTianyi%20and%20the%20Floating%20Islands%20(Hard%20Version)/solution.cpp) |
 | 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
+| 1931F | [Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1931/F%20-%20Chat%20Screenshots/solution.cpp) |
 | 1970C2 | [Game on Tree (Medium)](https://codeforces.com/contest/1970/problem/C2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1970/C2%20-%20Game%20on%20Tree%20(Medium)/solution.cpp) |
 | 1986F | [Non-academic Problem](https://codeforces.com/contest/1986/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/F%20-%20Non-academic%20Problem/solution.cpp) |
+| 2006A | [Iris and Game on the Tree](https://codeforces.com/contest/2006/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2006/A%20-%20Iris%20and%20Game%20on%20the%20Tree/solution.cpp) |
+| 2018C | [Tree Pruning](https://codeforces.com/contest/2018/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2018/C%20-%20Tree%20Pruning/solution.cpp) |
 | 2041D | [Drunken Maze](https://codeforces.com/contest/2041/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2041/D%20-%20Drunken%20Maze/solution.cpp) |
 | 2060E | [Graph Composition](https://codeforces.com/contest/2060/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2060/E%20-%20Graph%20Composition/solution.cpp) |
 | 2110D | [Fewer Batteries](https://codeforces.com/contest/2110/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2110/D%20-%20Fewer%20Batteries/solution.cpp) |
@@ -391,6 +410,7 @@
 | 2138C1 | [Maple and Tree Beauty (Easy Version)](https://codeforces.com/contest/2138/problem/C1) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2138/C1%20-%20Maple%20and%20Tree%20Beauty%20(Easy%20Version)/solution.cpp) |
 | 2143C | [Max Tree](https://codeforces.com/contest/2143/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2143/C%20-%20Max%20Tree/solution.cpp) |
 | 2145D | [Inversion Value of a Permutation](https://codeforces.com/contest/2145/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2145/D%20-%20Inversion%20Value%20of%20a%20Permutation/solution.cpp) |
+| 2154D | [Catshock](https://codeforces.com/contest/2154/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/D%20-%20Catshock/solution.cpp) |
 
 ### divide and conquer
 
@@ -399,6 +419,7 @@
 | 459D | [Pashmak and Parmida's problem](https://codeforces.com/contest/459/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/459/D%20-%20Pashmak%20and%20Parmida's%20problem/solution.cpp) |
 | 1691D | [Max GEQ Sum](https://codeforces.com/contest/1691/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1691/D%20-%20Max%20GEQ%20Sum/solution.cpp) |
 | 1915F | [Greetings](https://codeforces.com/contest/1915/problem/F) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1915/F%20-%20Greetings/solution.cpp) |
+| 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 2014H | [Robin Hood Archery](https://codeforces.com/contest/2014/problem/H) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2014/H%20-%20Robin%20Hood%20Archery/solution.cpp) |
 | 2050F | [Maximum modulo equality](https://codeforces.com/contest/2050/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2050/F%20-%20Maximum%20modulo%20equality/solution.cpp) |
 | 2146D1 | [Max Sum OR (Easy Version)](https://codeforces.com/contest/2146/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2146/D1%20-%20Max%20Sum%20OR%20(Easy%20Version)/solution.cpp) |
@@ -497,6 +518,7 @@
 |---|---------|------------|----------|
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 1970C2 | [Game on Tree (Medium)](https://codeforces.com/contest/1970/problem/C2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1970/C2%20-%20Game%20on%20Tree%20(Medium)/solution.cpp) |
+| 2006A | [Iris and Game on the Tree](https://codeforces.com/contest/2006/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2006/A%20-%20Iris%20and%20Game%20on%20the%20Tree/solution.cpp) |
 | 2104C | [Card Game](https://codeforces.com/contest/2104/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2104/C%20-%20Card%20Game/solution.cpp) |
 | 2116A | [Gellyfish and Tricolor Pansy](https://codeforces.com/contest/2116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2116/A%20-%20Gellyfish%20and%20Tricolor%20Pansy/solution.cpp) |
 | 2152B | [Catching the Krug](https://codeforces.com/contest/2152/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2152/B%20-%20Catching%20the%20Krug/solution.cpp) |
@@ -540,8 +562,10 @@
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
 | 1833E | [Round Dance](https://codeforces.com/contest/1833/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1833/E%20-%20Round%20Dance/solution.cpp) |
 | 1915G | [Bicycles](https://codeforces.com/contest/1915/problem/G) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1915/G%20-%20Bicycles/solution.cpp) |
+| 1931F | [Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1931/F%20-%20Chat%20Screenshots/solution.cpp) |
 | 1986F | [Non-academic Problem](https://codeforces.com/contest/1986/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/F%20-%20Non-academic%20Problem/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
+| 2006A | [Iris and Game on the Tree](https://codeforces.com/contest/2006/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2006/A%20-%20Iris%20and%20Game%20on%20the%20Tree/solution.cpp) |
 | 2041D | [Drunken Maze](https://codeforces.com/contest/2041/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2041/D%20-%20Drunken%20Maze/solution.cpp) |
 | 2052F | [Fix Flooded Floor](https://codeforces.com/contest/2052/problem/F) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2052/F%20-%20Fix%20Flooded%20Floor/solution.cpp) |
 | 2060E | [Graph Composition](https://codeforces.com/contest/2060/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2060/E%20-%20Graph%20Composition/solution.cpp) |
@@ -553,6 +577,7 @@
 | 2133C | [The Nether](https://codeforces.com/contest/2133/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2133/C%20-%20The%20Nether/solution.cpp) |
 | 2138C1 | [Maple and Tree Beauty (Easy Version)](https://codeforces.com/contest/2138/problem/C1) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2138/C1%20-%20Maple%20and%20Tree%20Beauty%20(Easy%20Version)/solution.cpp) |
 | 2143C | [Max Tree](https://codeforces.com/contest/2143/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2143/C%20-%20Max%20Tree/solution.cpp) |
+| 2154D | [Catshock](https://codeforces.com/contest/2154/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/D%20-%20Catshock/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
 | 2155D | [Batteries](https://codeforces.com/contest/2155/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/D%20-%20Batteries/solution.cpp) |
 
@@ -606,9 +631,12 @@
 | 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
+| 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 1992F | [Valuable Cards](https://codeforces.com/contest/1992/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1992/F%20-%20Valuable%20Cards/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
+| 2006A | [Iris and Game on the Tree](https://codeforces.com/contest/2006/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2006/A%20-%20Iris%20and%20Game%20on%20the%20Tree/solution.cpp) |
 | 2014H | [Robin Hood Archery](https://codeforces.com/contest/2014/problem/H) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2014/H%20-%20Robin%20Hood%20Archery/solution.cpp) |
+| 2018C | [Tree Pruning](https://codeforces.com/contest/2018/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2018/C%20-%20Tree%20Pruning/solution.cpp) |
 | 2057C | [Trip to the Olympiad](https://codeforces.com/contest/2057/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2057/C%20-%20Trip%20to%20the%20Olympiad/solution.cpp) |
 | 2060E | [Graph Composition](https://codeforces.com/contest/2060/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2060/E%20-%20Graph%20Composition/solution.cpp) |
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.cpp) |
@@ -693,7 +721,13 @@
 | 2146D1 | [Max Sum OR (Easy Version)](https://codeforces.com/contest/2146/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2146/D1%20-%20Max%20Sum%20OR%20(Easy%20Version)/solution.cpp) |
 | 2146D2 | [Max Sum OR (Hard Version)](https://codeforces.com/contest/2146/problem/D2) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2146/D2%20-%20Max%20Sum%20OR%20(Hard%20Version)/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
+| 2154B | [Make it Zigzag](https://codeforces.com/contest/2154/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/B%20-%20Make%20it%20Zigzag/solution.cpp) |
+| 2154C1 | [No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C1%20-%20No%20Cost%20Too%20Great%20(Easy%20Version)/solution.cpp) |
+| 2154C2 | [No Cost Too Great (Hard Version)](https://codeforces.com/contest/2154/problem/C2) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C2%20-%20No%20Cost%20Too%20Great%20(Hard%20Version)/solution.cpp) |
 | 2155C | [The Ancient Wizards' Capes](https://codeforces.com/contest/2155/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/C%20-%20The%20Ancient%20Wizards'%20Capes/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
+| 2156C | [Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/C%20-%20Maximum%20GCD%20on%20Whiteboard/solution.cpp) |
 | 2162E | [Beautiful Palindromes](https://codeforces.com/contest/2162/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/E%20-%20Beautiful%20Palindromes/solution.cpp) |
 | 2162F | [Beautiful Intervals](https://codeforces.com/contest/2162/problem/F) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/F%20-%20Beautiful%20Intervals/solution.cpp) |
 
@@ -730,6 +764,7 @@
 | 1915G | [Bicycles](https://codeforces.com/contest/1915/problem/G) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1915/G%20-%20Bicycles/solution.cpp) |
 | 1935D | [Exam in MAC](https://codeforces.com/contest/1935/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1935/D%20-%20Exam%20in%20MAC/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
+| 1982D | [Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1982/D%20-%20Beauty%20of%20the%20mountains/solution.cpp) |
 | 2022C | [Gerrymandering](https://codeforces.com/contest/2022/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2022/C%20-%20Gerrymandering/solution.cpp) |
 | 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2037/A%20-%20Twice/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
@@ -765,8 +800,10 @@
 | 2137E | [Mexification](https://codeforces.com/contest/2137/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2137/E%20-%20Mexification/solution.cpp) |
 | 2145B | [Deck of Cards](https://codeforces.com/contest/2145/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2145/B%20-%20Deck%20of%20Cards/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
+| 2154C1 | [No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C1%20-%20No%20Cost%20Too%20Great%20(Easy%20Version)/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2155C | [The Ancient Wizards' Capes](https://codeforces.com/contest/2155/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/C%20-%20The%20Ancient%20Wizards'%20Capes/solution.cpp) |
+| 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 | 2159A | [MAD Interactive Problem](https://codeforces.com/contest/2159/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2159/A%20-%20MAD%20Interactive%20Problem/solution.cpp) |
 
 ### interactive
@@ -774,6 +811,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1534D | [Lost Tree](https://codeforces.com/contest/1534/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1534/D%20-%20Lost%20Tree/solution.cpp) |
+| 1999G1 | [Ruler (easy version)](https://codeforces.com/contest/1999/problem/G1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1999/G1%20-%20Ruler%20(easy%20version)/solution.cpp) |
+| 1999G2 | [Ruler (hard version)](https://codeforces.com/contest/1999/problem/G2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1999/G2%20-%20Ruler%20(hard%20version)/solution.cpp) |
 | 2109C1 | [Hacking Numbers (Easy Version)](https://codeforces.com/contest/2109/problem/C1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2109/C1%20-%20Hacking%20Numbers%20(Easy%20Version)/solution.cpp) |
 | 2109C2 | [Hacking Numbers (Medium Version)](https://codeforces.com/contest/2109/problem/C2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2109/C2%20-%20Hacking%20Numbers%20(Medium%20Version)/solution.cpp) |
 | 2109C3 | [Hacking Numbers (Hard Version)](https://codeforces.com/contest/2109/problem/C3) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2109/C3%20-%20Hacking%20Numbers%20(Hard%20Version)/solution.cpp) |
@@ -828,6 +867,8 @@
 | 1957D | [A BIT of an Inequality](https://codeforces.com/contest/1957/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1957/D%20-%20A%20BIT%20of%20an%20Inequality/solution.cpp) |
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
+| 1982D | [Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1982/D%20-%20Beauty%20of%20the%20mountains/solution.cpp) |
+| 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
 | 2044F | [Easy Demon Problem](https://codeforces.com/contest/2044/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2044/F%20-%20Easy%20Demon%20Problem/solution.cpp) |
@@ -896,8 +937,11 @@
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.cpp) |
 | 2144D | [Price Tags](https://codeforces.com/contest/2144/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2144/D%20-%20Price%20Tags/solution.cpp) |
 | 2145A | [Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2145/A%20-%20Candies%20for%20Nephews/solution.cpp) |
+| 2154C1 | [No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C1%20-%20No%20Cost%20Too%20Great%20(Easy%20Version)/solution.cpp) |
+| 2154C2 | [No Cost Too Great (Hard Version)](https://codeforces.com/contest/2154/problem/C2) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C2%20-%20No%20Cost%20Too%20Great%20(Hard%20Version)/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2155D | [Batteries](https://codeforces.com/contest/2155/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/D%20-%20Batteries/solution.cpp) |
+| 2156C | [Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/C%20-%20Maximum%20GCD%20on%20Whiteboard/solution.cpp) |
 | 2162G | [Beautiful Tree](https://codeforces.com/contest/2162/problem/G) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/G%20-%20Beautiful%20Tree/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
@@ -926,6 +970,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1907/E%20-%20Good%20Triples/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
+| 1982D | [Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1982/D%20-%20Beauty%20of%20the%20mountains/solution.cpp) |
 | 1992F | [Valuable Cards](https://codeforces.com/contest/1992/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1992/F%20-%20Valuable%20Cards/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
 | 2036F | [XORificator 3000](https://codeforces.com/contest/2036/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2036/F%20-%20XORificator%203000/solution.cpp) |
@@ -947,6 +992,9 @@
 | 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.cpp) |
 | 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
+| 2154C1 | [No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C1%20-%20No%20Cost%20Too%20Great%20(Easy%20Version)/solution.cpp) |
+| 2154C2 | [No Cost Too Great (Hard Version)](https://codeforces.com/contest/2154/problem/C2) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/C2%20-%20No%20Cost%20Too%20Great%20(Hard%20Version)/solution.cpp) |
+| 2156C | [Maximum GCD on Whiteboard](https://codeforces.com/contest/2156/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2156/C%20-%20Maximum%20GCD%20on%20Whiteboard/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### probabilities
@@ -1009,7 +1057,9 @@
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 1932F | [Feed Cats](https://codeforces.com/contest/1932/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1932/F%20-%20Feed%20Cats/solution.cpp) |
 | 1978A | [Alice and Books](https://codeforces.com/contest/1978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/A%20-%20Alice%20and%20Books/solution.cpp) |
+| 1983D | [Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1983/D%20-%20Swap%20Dilemma/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
+| 2018C | [Tree Pruning](https://codeforces.com/contest/2018/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2018/C%20-%20Tree%20Pruning/solution.cpp) |
 | 2065D | [Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/D%20-%20Skibidus%20and%20Sigma/solution.cpp) |
 | 2077A | [Breach of Faith](https://codeforces.com/contest/2077/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2077/A%20-%20Breach%20of%20Faith/solution.cpp) |
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
@@ -1039,6 +1089,7 @@
 | 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+| 1948D | [Tandem Repeats?](https://codeforces.com/contest/1948/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1948/D%20-%20Tandem%20Repeats%3F/solution.cpp) |
 | 2064A | [Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2064/A%20-%20Brogramming%20Contest/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.cpp) |
@@ -1057,6 +1108,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
+| 1999G2 | [Ruler (hard version)](https://codeforces.com/contest/1999/problem/G2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1999/G2%20-%20Ruler%20(hard%20version)/solution.cpp) |
 
 ### trees
 
@@ -1075,10 +1127,13 @@
 | 1970C2 | [Game on Tree (Medium)](https://codeforces.com/contest/1970/problem/C2) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1970/C2%20-%20Game%20on%20Tree%20(Medium)/solution.cpp) |
 | 1986F | [Non-academic Problem](https://codeforces.com/contest/1986/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/F%20-%20Non-academic%20Problem/solution.cpp) |
 | 1994D | [Funny Game](https://codeforces.com/contest/1994/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1994/D%20-%20Funny%20Game/solution.cpp) |
+| 2006A | [Iris and Game on the Tree](https://codeforces.com/contest/2006/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2006/A%20-%20Iris%20and%20Game%20on%20the%20Tree/solution.cpp) |
+| 2018C | [Tree Pruning](https://codeforces.com/contest/2018/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2018/C%20-%20Tree%20Pruning/solution.cpp) |
 | 2127D | [Root was Built by Love, Broken by Destiny](https://codeforces.com/contest/2127/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2127/D%20-%20Root%20was%20Built%20by%20Love%2C%20Broken%20by%20Destiny/solution.cpp) |
 | 2131D | [Arboris Contractio](https://codeforces.com/contest/2131/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2131/D%20-%20Arboris%20Contractio/solution.cpp) |
 | 2138C1 | [Maple and Tree Beauty (Easy Version)](https://codeforces.com/contest/2138/problem/C1) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2138/C1%20-%20Maple%20and%20Tree%20Beauty%20(Easy%20Version)/solution.cpp) |
 | 2146D1 | [Max Sum OR (Easy Version)](https://codeforces.com/contest/2146/problem/D1) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2146/D1%20-%20Max%20Sum%20OR%20(Easy%20Version)/solution.cpp) |
+| 2154D | [Catshock](https://codeforces.com/contest/2154/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/D%20-%20Catshock/solution.cpp) |
 | 2162G | [Beautiful Tree](https://codeforces.com/contest/2162/problem/G) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2162/G%20-%20Beautiful%20Tree/solution.cpp) |
 
 ### two pointers
@@ -1097,6 +1152,7 @@
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
+| 1948D | [Tandem Repeats?](https://codeforces.com/contest/1948/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1948/D%20-%20Tandem%20Repeats%3F/solution.cpp) |
 | 1955D | [Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1955/D%20-%20Inaccurate%20Subsequence%20Search/solution.cpp) |
 | 1992F | [Valuable Cards](https://codeforces.com/contest/1992/problem/F) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1992/F%20-%20Valuable%20Cards/solution.cpp) |
 | 2009G1 | [Yunli's Subarray Queries (easy version)](https://codeforces.com/contest/2009/problem/G1) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2009/G1%20-%20Yunli's%20Subarray%20Queries%20(easy%20version)/solution.cpp) |
@@ -1111,6 +1167,7 @@
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2143D1 | [Inversion Graph Coloring (Easy Version)](https://codeforces.com/contest/2143/problem/D1) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2143/D1%20-%20Inversion%20Graph%20Coloring%20(Easy%20Version)/solution.cpp) |
+| 2154D | [Catshock](https://codeforces.com/contest/2154/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2154/D%20-%20Catshock/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ---
