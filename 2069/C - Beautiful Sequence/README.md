@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/2069/problem/C" target="_blank" rel="noopener noreferrer">2069C — Beautiful Sequence</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1500 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2069C](https://codeforces.com/contest/2069/problem/C) |
+
+## Topics
+`combinatorics` `dp` `greedy` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Beautiful Sequence</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Let's call an integer sequence <span class="tex-font-style-bf">beautiful</span> if the following conditions hold: </p><ul> <li> its length is at least $$$3$$$; </li><li> for every element except the first one, there is an element to the left less than it; </li><li> for every element except the last one, there is an element to the right larger than it; </li></ul><p>For example, $$$[1, 4, 2, 4, 7]$$$ and $$$[1, 2, 4, 8]$$$ are beautiful, but $$$[1, 2]$$$, $$$[2, 2, 4]$$$, and $$$[1, 3, 5, 3]$$$ are not.</p><p>Recall that a subsequence is a sequence that can be obtained from another sequence by removing some elements without changing the order of the remaining elements.</p><p>You are given an integer array $$$a$$$ of size $$$n$$$, where <span class="tex-font-style-bf">every element is from $$$1$$$ to $$$3$$$</span>. Your task is to calculate the number of beautiful subsequences of the array $$$a$$$. Since the answer might be large, print it modulo $$$998244353$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$3 \le n \le 2 \cdot 10^5$$$).</p><p>The second line contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ ($$$1 \le a_i \le 3$$$).</p><p>Additional constraint on the input: the sum of $$$n$$$ over all test cases doesn't exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print a single integer — the number of beautiful subsequences of the array $$$a$$$, taken modulo $$$998244353$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0006733999861557205" id="id00783170950735701" class="input-output-copier">Copy</div></div><pre id="id0006733999861557205"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">7</div><div class="test-example-line test-example-line-odd test-example-line-1">3 2 1 2 2 1 3</div><div class="test-example-line test-example-line-even test-example-line-2">4</div><div class="test-example-line test-example-line-even test-example-line-2">3 1 2 2</div><div class="test-example-line test-example-line-odd test-example-line-3">3</div><div class="test-example-line test-example-line-odd test-example-line-3">1 2 3</div><div class="test-example-line test-example-line-even test-example-line-4">9</div><div class="test-example-line test-example-line-even test-example-line-4">1 2 3 2 1 3 2 2 3</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006146694275905109" id="id009522754661236297" class="input-output-copier">Copy</div></div><pre id="id006146694275905109">3
+0
+1
+22
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case of the example, the following subsequences are beautiful:</p><ul> <li> $$$[a_3, a_4, a_7]$$$; </li><li> $$$[a_3, a_5, a_7]$$$; </li><li> $$$[a_3, a_4, a_5, a_7]$$$. </li></ul></div>
