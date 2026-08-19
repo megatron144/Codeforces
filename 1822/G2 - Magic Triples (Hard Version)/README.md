@@ -1,0 +1,24 @@
+<h2><a href="https://codeforces.com/contest/1822/problem/G2" target="_blank" rel="noopener noreferrer">1822G2 — Magic Triples (Hard Version)</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 2200 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1822G2](https://codeforces.com/contest/1822/problem/G2) |
+
+## Topics
+`brute force` `data structures` `math` `number theory`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">G2. Magic Triples (Hard Version)</div><div class="time-limit"><div class="property-title">time limit per test</div>4 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p><span class="tex-font-style-bf">This is the hard version of the problem. The only difference is that in this version, $$$a_i \le 10^9$$$.</span></p><p>For a given sequence of $$$n$$$ integers $$$a$$$, a triple $$$(i, j, k)$$$ is called <span class="tex-font-style-it">magic</span> if: </p><ul> <li> $$$1 \le i, j, k \le n$$$. </li><li> $$$i$$$, $$$j$$$, $$$k$$$ are pairwise distinct. </li><li> there exists a positive integer $$$b$$$ such that $$$a_i \cdot b = a_j$$$ and $$$a_j \cdot b = a_k$$$. </li></ul><p>Kolya received a sequence of integers $$$a$$$ as a gift and now wants to count the number of <span class="tex-font-style-it">magic</span> triples for it. Help him with this task!</p><p>Note that there are no constraints on the order of integers $$$i$$$, $$$j$$$ and $$$k$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases. The description of the test cases follows.</p><p>The first line of the test case contains a single integer $$$n$$$ ($$$3 \le n \le 2 \cdot 10^5$$$) — the length of the sequence.</p><p>The second line of the test contains $$$n$$$ integers $$$a_1, a_2, a_3, \dots, a_n$$$ ($$$1 \le a_i \le 10^9$$$) — the elements of the sequence $$$a$$$.</p><p>The sum of $$$n$$$ over all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer — the number of <span class="tex-font-style-it">magic</span> triples for the sequence $$$a$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0018482613184121588" id="id004601673957949599" class="input-output-copier">Copy</div></div><pre id="id0018482613184121588"><div class="test-example-line test-example-line-even test-example-line-0">7</div><div class="test-example-line test-example-line-odd test-example-line-1">5</div><div class="test-example-line test-example-line-odd test-example-line-1">1 7 7 2 7</div><div class="test-example-line test-example-line-even test-example-line-2">3</div><div class="test-example-line test-example-line-even test-example-line-2">6 2 18</div><div class="test-example-line test-example-line-odd test-example-line-3">9</div><div class="test-example-line test-example-line-odd test-example-line-3">1 2 3 4 5 6 7 8 9</div><div class="test-example-line test-example-line-even test-example-line-4">4</div><div class="test-example-line test-example-line-even test-example-line-4">1000 993 986 179</div><div class="test-example-line test-example-line-odd test-example-line-5">7</div><div class="test-example-line test-example-line-odd test-example-line-5">1 10 100 1000 10000 100000 1000000</div><div class="test-example-line test-example-line-even test-example-line-6">8</div><div class="test-example-line test-example-line-even test-example-line-6">1 1 2 2 4 4 8 8</div><div class="test-example-line test-example-line-odd test-example-line-7">9</div><div class="test-example-line test-example-line-odd test-example-line-7">1 1 1 2 2 2 4 4 4</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0024442845975129346" id="id008714217895993207" class="input-output-copier">Copy</div></div><pre id="id0024442845975129346">6
+1
+3
+0
+9
+16
+45
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example, there are $$$6$$$ <span class="tex-font-style-it">magic</span> triples for the sequence $$$a$$$ — $$$(2, 3, 5)$$$, $$$(2, 5, 3)$$$, $$$(3, 2, 5)$$$, $$$(3, 5, 2)$$$, $$$(5, 2, 3)$$$, $$$(5, 3, 2)$$$.</p><p>In the second example, there is a single <span class="tex-font-style-it">magic</span> triple for the sequence $$$a$$$ — $$$(2, 1, 3)$$$.</p></div>
