@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 15 |
+| 16 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -21,12 +21,12 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (4)
-- [math](#math) (4)
-- [number theory](#number-theory) (1)
+- [math](#math) (5)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (4)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -37,6 +37,7 @@
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 | 2065C1 | [Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version)/solution.cpp) |
 | 2065C2 | [Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/2065/C2%20-%20Skibidus%20and%20Fanum%20Tax%20(hard%20version)/solution.cpp) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### brute force
 
@@ -115,12 +116,14 @@
 | 1978B | [New Bakery](https://codeforces.com/contest/1978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/B%20-%20New%20Bakery/solution.cpp) |
 | 1978C | [Manhattan Permutations](https://codeforces.com/contest/1978/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1978/C%20-%20Manhattan%20Permutations/solution.cpp) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1986/A%20-%20X%20Axis/solution.cpp) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### sortings
 
@@ -150,6 +153,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/megatron144/Codeforces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ---
 
