@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 382 | 33 |
+| 383 | 33 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (13)
 - [binary search](#binary-search) (59)
 - [bitmasks](#bitmasks) (39)
 - [brute force](#brute-force) (85)
@@ -68,6 +68,7 @@
 | 2175C | [Needle in a Haystack](https://codeforces.com/contest/2175/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2175/C%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2188D | [Shortest Statement Ever](https://codeforces.com/contest/2188/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2188/D%20-%20Shortest%20Statement%20Ever/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2258B2 | [Carrot Chopdown (Hard Version)](https://codeforces.com/contest/2258/problem/B2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/B2%20-%20Carrot%20Chopdown%20(Hard%20Version)/solution.cpp) |
 | 2258C | [Far Cities](https://codeforces.com/contest/2258/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/C%20-%20Far%20Cities/solution.cpp) |
 
