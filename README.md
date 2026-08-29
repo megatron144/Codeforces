@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 380 | 33 |
+| 381 | 33 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (10)
+- [Uncategorized](#uncategorized) (11)
 - [binary search](#binary-search) (59)
 - [bitmasks](#bitmasks) (39)
 - [brute force](#brute-force) (85)
@@ -67,6 +67,7 @@
 | 2166D | [Marble Council](https://codeforces.com/contest/2166/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2166/D%20-%20Marble%20Council/solution.cpp) |
 | 2175C | [Needle in a Haystack](https://codeforces.com/contest/2175/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2175/C%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
 | 2188D | [Shortest Statement Ever](https://codeforces.com/contest/2188/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2188/D%20-%20Shortest%20Statement%20Ever/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258C | [Far Cities](https://codeforces.com/contest/2258/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/C%20-%20Far%20Cities/solution.cpp) |
 
 ### binary search
