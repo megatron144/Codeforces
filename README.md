@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 383 | 33 |
+| 384 | 33 |
 
 ---
 
@@ -14,15 +14,15 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (13)
-- [binary search](#binary-search) (59)
+- [binary search](#binary-search) (60)
 - [bitmasks](#bitmasks) (39)
 - [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (34)
 - [constructive algorithms](#constructive-algorithms) (93)
-- [data structures](#data-structures) (65)
+- [data structures](#data-structures) (66)
 - [dfs and similar](#dfs-and-similar) (34)
 - [divide and conquer](#divide-and-conquer) (10)
-- [dp](#dp) (90)
+- [dp](#dp) (91)
 - [dsu](#dsu) (14)
 - [flows](#flows) (1)
 - [games](#games) (10)
@@ -76,6 +76,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 567C | [Geometric Progression](https://codeforces.com/contest/567/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/567/C%20-%20Geometric%20Progression/solution.cpp) |
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1335E1 | [Three Blocks Palindrome (easy version)](https://codeforces.com/contest/1335/problem/E1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1335/E1%20-%20Three%20Blocks%20Palindrome%20(easy%20version)/solution.cpp) |
 | 1355C | [Count Triangles](https://codeforces.com/contest/1355/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1355/C%20-%20Count%20Triangles/solution.cpp) |
@@ -417,6 +418,7 @@
 | 380C | [Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/380/C%20-%20Sereja%20and%20Brackets/solution.cpp) |
 | 398D | [Instant Messanger](https://codeforces.com/contest/398/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/398/D%20-%20Instant%20Messanger/solution.cpp) |
 | 459D | [Pashmak and Parmida's problem](https://codeforces.com/contest/459/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/459/D%20-%20Pashmak%20and%20Parmida's%20problem/solution.cpp) |
+| 567C | [Geometric Progression](https://codeforces.com/contest/567/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/567/C%20-%20Geometric%20Progression/solution.cpp) |
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
 | 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
@@ -535,6 +537,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 567C | [Geometric Progression](https://codeforces.com/contest/567/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/567/C%20-%20Geometric%20Progression/solution.cpp) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/891/A%20-%20Pride/solution.cpp) |
 | 982C | [Cut 'em all!](https://codeforces.com/contest/982/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/982/C%20-%20Cut%20'em%20all!/solution.cpp) |
 | 1335E1 | [Three Blocks Palindrome (easy version)](https://codeforces.com/contest/1335/problem/E1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1335/E1%20-%20Three%20Blocks%20Palindrome%20(easy%20version)/solution.cpp) |
