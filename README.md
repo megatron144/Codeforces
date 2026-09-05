@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 384 | 33 |
+| 385 | 33 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (13)
+- [Uncategorized](#uncategorized) (14)
 - [binary search](#binary-search) (60)
 - [bitmasks](#bitmasks) (39)
 - [brute force](#brute-force) (85)
@@ -71,6 +71,7 @@
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2258B2 | [Carrot Chopdown (Hard Version)](https://codeforces.com/contest/2258/problem/B2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/B2%20-%20Carrot%20Chopdown%20(Hard%20Version)/solution.cpp) |
 | 2258C | [Far Cities](https://codeforces.com/contest/2258/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2258/C%20-%20Far%20Cities/solution.cpp) |
+| 2259F | [Binary Bubble Sort Inversions](https://codeforces.com/contest/2259/problem/F) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2259/F%20-%20Binary%20Bubble%20Sort%20Inversions/solution.cpp) |
 
 ### binary search
 
