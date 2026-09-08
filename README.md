@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 387 | 33 |
+| 388 | 33 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (34)
 - [constructive algorithms](#constructive-algorithms) (93)
-- [data structures](#data-structures) (66)
+- [data structures](#data-structures) (67)
 - [dfs and similar](#dfs-and-similar) (34)
 - [divide and conquer](#divide-and-conquer) (10)
 - [dp](#dp) (91)
@@ -31,9 +31,9 @@
 - [graphs](#graphs) (39)
 - [greedy](#greedy) (181)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (75)
+- [implementation](#implementation) (76)
 - [interactive](#interactive) (10)
-- [math](#math) (157)
+- [math](#math) (158)
 - [matrices](#matrices) (2)
 - [number theory](#number-theory) (52)
 - [probabilities](#probabilities) (7)
@@ -44,7 +44,7 @@
 - [strings](#strings) (24)
 - [ternary search](#ternary-search) (2)
 - [trees](#trees) (28)
-- [two pointers](#two-pointers) (42)
+- [two pointers](#two-pointers) (43)
 
 ---
 
@@ -416,6 +416,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61E | [Enemy is weak](https://codeforces.com/contest/61/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/61/E%20-%20Enemy%20is%20weak/solution.cpp) |
+| 86D | [Powerful array](https://codeforces.com/contest/86/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/86/D%20-%20Powerful%20array/solution.cpp) |
 | 220B | [Little Elephant and Array](https://codeforces.com/contest/220/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/220/B%20-%20Little%20Elephant%20and%20Array/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 380C | [Sereja and Brackets](https://codeforces.com/contest/380/problem/C) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/380/C%20-%20Sereja%20and%20Brackets/solution.cpp) |
@@ -939,6 +940,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 86D | [Powerful array](https://codeforces.com/contest/86/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/86/D%20-%20Powerful%20array/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
@@ -1035,6 +1037,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61C | [Capture Valerian](https://codeforces.com/contest/61/problem/C) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/61/C%20-%20Capture%20Valerian/solution.cpp) |
+| 86D | [Powerful array](https://codeforces.com/contest/86/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/86/D%20-%20Powerful%20array/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 527A | [Playing with Paper](https://codeforces.com/contest/527/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/527/A%20-%20Playing%20with%20Paper/solution.cpp) |
 | 584D | [Dima and Lisa](https://codeforces.com/contest/584/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/584/D%20-%20Dima%20and%20Lisa/solution.cpp) |
@@ -1429,6 +1432,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 86D | [Powerful array](https://codeforces.com/contest/86/problem/D) | 2200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/86/D%20-%20Powerful%20array/solution.cpp) |
 | 1335E1 | [Three Blocks Palindrome (easy version)](https://codeforces.com/contest/1335/problem/E1) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1335/E1%20-%20Three%20Blocks%20Palindrome%20(easy%20version)/solution.cpp) |
 | 1335E2 | [Three Blocks Palindrome (hard version)](https://codeforces.com/contest/1335/problem/E2) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1335/E2%20-%20Three%20Blocks%20Palindrome%20(hard%20version)/solution.cpp) |
 | 1355C | [Count Triangles](https://codeforces.com/contest/1355/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1355/C%20-%20Count%20Triangles/solution.cpp) |
