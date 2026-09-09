@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 388 | 33 |
+| 389 | 33 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (16)
-- [binary search](#binary-search) (60)
+- [binary search](#binary-search) (61)
 - [bitmasks](#bitmasks) (39)
 - [brute force](#brute-force) (85)
 - [combinatorics](#combinatorics) (34)
 - [constructive algorithms](#constructive-algorithms) (93)
-- [data structures](#data-structures) (67)
+- [data structures](#data-structures) (68)
 - [dfs and similar](#dfs-and-similar) (34)
 - [divide and conquer](#divide-and-conquer) (10)
 - [dp](#dp) (91)
@@ -29,9 +29,9 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (39)
-- [greedy](#greedy) (181)
+- [greedy](#greedy) (182)
 - [hashing](#hashing) (5)
-- [implementation](#implementation) (76)
+- [implementation](#implementation) (77)
 - [interactive](#interactive) (10)
 - [math](#math) (158)
 - [matrices](#matrices) (2)
@@ -39,7 +39,7 @@
 - [probabilities](#probabilities) (7)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (13)
-- [sortings](#sortings) (52)
+- [sortings](#sortings) (53)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (24)
 - [ternary search](#ternary-search) (2)
@@ -86,6 +86,7 @@
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1462F | [The Treasure of The Segments](https://codeforces.com/contest/1462/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1462/F%20-%20The%20Treasure%20of%20The%20Segments/solution.cpp) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
+| 1514D | [Cut and Stick](https://codeforces.com/contest/1514/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1514/D%20-%20Cut%20and%20Stick/solution.cpp) |
 | 1537E1 | [Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1537/E1%20-%20Erase%20and%20Extend%20(Easy%20Version)/solution.cpp) |
 | 1610C | [Keshi Is Throwing a Party](https://codeforces.com/contest/1610/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1610/C%20-%20Keshi%20Is%20Throwing%20a%20Party/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
@@ -434,6 +435,7 @@
 | 1442B | [Identify the Operations](https://codeforces.com/contest/1442/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1442/B%20-%20Identify%20the%20Operations/solution.cpp) |
 | 1462F | [The Treasure of The Segments](https://codeforces.com/contest/1462/problem/F) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1462/F%20-%20The%20Treasure%20of%20The%20Segments/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
+| 1514D | [Cut and Stick](https://codeforces.com/contest/1514/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1514/D%20-%20Cut%20and%20Stick/solution.cpp) |
 | 1519C | [Berland Regional](https://codeforces.com/contest/1519/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/C%20-%20Berland%20Regional/solution.cpp) |
 | 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
@@ -773,6 +775,7 @@
 | 1468J | [Road Reform](https://codeforces.com/contest/1468/problem/J) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1468/J%20-%20Road%20Reform/solution.cpp) |
 | 1491D | [Zookeeper and The Infinite Zoo](https://codeforces.com/contest/1491/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1491/D%20-%20Zookeeper%20and%20The%20Infinite%20Zoo/solution.cpp) |
 | 1509C | [The Sports Festival](https://codeforces.com/contest/1509/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1509/C%20-%20The%20Sports%20Festival/solution.cpp) |
+| 1514D | [Cut and Stick](https://codeforces.com/contest/1514/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1514/D%20-%20Cut%20and%20Stick/solution.cpp) |
 | 1516B | [AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1516/B%20-%20AGAGA%20XOOORRR/solution.cpp) |
 | 1519C | [Berland Regional](https://codeforces.com/contest/1519/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/C%20-%20Berland%20Regional/solution.cpp) |
 | 1520E | [Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1520/E%20-%20Arranging%20The%20Sheep/solution.cpp) |
@@ -951,6 +954,7 @@
 | 1401D | [Maximum Distributed Tree](https://codeforces.com/contest/1401/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1401/D%20-%20Maximum%20Distributed%20Tree/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1442B | [Identify the Operations](https://codeforces.com/contest/1442/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1442/B%20-%20Identify%20the%20Operations/solution.cpp) |
+| 1514D | [Cut and Stick](https://codeforces.com/contest/1514/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1514/D%20-%20Cut%20and%20Stick/solution.cpp) |
 | 1519D | [Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/D%20-%20Maximum%20Sum%20of%20Products/solution.cpp) |
 | 1537E1 | [Erase and Extend (Easy Version)](https://codeforces.com/contest/1537/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1537/E1%20-%20Erase%20and%20Extend%20(Easy%20Version)/solution.cpp) |
 | 1598D | [Training Session](https://codeforces.com/contest/1598/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1598/D%20-%20Training%20Session/solution.cpp) |
@@ -1313,6 +1317,7 @@
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
 | 1475E | [Advertising Agency](https://codeforces.com/contest/1475/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1475/E%20-%20Advertising%20Agency/solution.cpp) |
 | 1486B | [Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1486/B%20-%20Eastern%20Exhibition/solution.cpp) |
+| 1514D | [Cut and Stick](https://codeforces.com/contest/1514/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1514/D%20-%20Cut%20and%20Stick/solution.cpp) |
 | 1519C | [Berland Regional](https://codeforces.com/contest/1519/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1519/C%20-%20Berland%20Regional/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1692G | [2^Sort](https://codeforces.com/contest/1692/problem/G) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/1692/G%20-%202%5ESort/solution.cpp) |
