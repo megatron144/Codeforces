@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 391 | 33 |
+| 392 | 33 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (16)
 - [binary search](#binary-search) (61)
-- [bitmasks](#bitmasks) (39)
-- [brute force](#brute-force) (85)
+- [bitmasks](#bitmasks) (40)
+- [brute force](#brute-force) (86)
 - [combinatorics](#combinatorics) (34)
 - [constructive algorithms](#constructive-algorithms) (93)
-- [data structures](#data-structures) (69)
+- [data structures](#data-structures) (70)
 - [dfs and similar](#dfs-and-similar) (34)
 - [divide and conquer](#divide-and-conquer) (10)
 - [dp](#dp) (92)
@@ -33,7 +33,7 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (77)
 - [interactive](#interactive) (10)
-- [math](#math) (159)
+- [math](#math) (160)
 - [matrices](#matrices) (2)
 - [number theory](#number-theory) (53)
 - [probabilities](#probabilities) (7)
@@ -184,6 +184,7 @@
 | 2171G | [Sakura Adachi and Optimal Sequences](https://codeforces.com/contest/2171/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/G%20-%20Sakura%20Adachi%20and%20Optimal%20Sequences/solution.cpp) |
 | 2189C1 | [XOR Convenience (Easy Version)](https://codeforces.com/contest/2189/problem/C1) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2189/C1%20-%20XOR%20Convenience%20(Easy%20Version)/solution.cpp) |
 | 2189C2 | [XOR-convenience (Hard Version)](https://codeforces.com/contest/2189/problem/C2) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2189/C2%20-%20XOR-convenience%20(Hard%20Version)/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 
 ### brute force
 
@@ -274,6 +275,7 @@
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2166/A%20-%20Same%20Difference/solution.cpp) |
 | 2173C | [Kanade's Perfect Multiples](https://codeforces.com/contest/2173/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2173/C%20-%20Kanade's%20Perfect%20Multiples/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 
 ### combinatorics
 
@@ -485,6 +487,7 @@
 | 2171F | [Rae Taylor and Trees (hard version)](https://codeforces.com/contest/2171/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/F%20-%20Rae%20Taylor%20and%20Trees%20(hard%20version)/solution.cpp) |
 | 2184E | [Exquisite Array](https://codeforces.com/contest/2184/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2184/E%20-%20Exquisite%20Array/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 
 ### dfs and similar
 
@@ -1201,6 +1204,7 @@
 | 2193E | [Product Queries](https://codeforces.com/contest/2193/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/E%20-%20Product%20Queries/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
+| 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 
 ### matrices
 
