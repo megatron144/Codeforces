@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 393 | 33 |
+| 394 | 33 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (17)
+- [Uncategorized](#uncategorized) (18)
 - [binary search](#binary-search) (61)
 - [bitmasks](#bitmasks) (40)
 - [brute force](#brute-force) (86)
@@ -75,6 +75,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259F | [Binary Bubble Sort Inversions](https://codeforces.com/contest/2259/problem/F) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2259/F%20-%20Binary%20Bubble%20Sort%20Inversions/solution.cpp) |
 | 2271B | [MEX Game](https://codeforces.com/contest/2271/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2271/B%20-%20MEX%20Game/solution.cpp) |
+| 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
 
 ### binary search
 
