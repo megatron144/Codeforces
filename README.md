@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 395 | 33 |
+| 396 | 33 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (61)
 - [bitmasks](#bitmasks) (40)
 - [brute force](#brute-force) (86)
-- [combinatorics](#combinatorics) (34)
+- [combinatorics](#combinatorics) (35)
 - [constructive algorithms](#constructive-algorithms) (93)
 - [data structures](#data-structures) (70)
 - [dfs and similar](#dfs-and-similar) (34)
@@ -28,7 +28,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (3)
-- [graphs](#graphs) (39)
+- [graphs](#graphs) (40)
 - [greedy](#greedy) (182)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (77)
@@ -318,6 +318,7 @@
 | 2171G | [Sakura Adachi and Optimal Sequences](https://codeforces.com/contest/2171/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2171/G%20-%20Sakura%20Adachi%20and%20Optimal%20Sequences/solution.cpp) |
 | 2184D | [Unfair Game](https://codeforces.com/contest/2184/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2184/D%20-%20Unfair%20Game/solution.cpp) |
 | 2184E | [Exquisite Array](https://codeforces.com/contest/2184/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2184/E%20-%20Exquisite%20Array/solution.cpp) |
+| 2276D | [Caveman](https://codeforces.com/contest/2276/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2276/D%20-%20Caveman/solution.cpp) |
 
 ### constructive algorithms
 
@@ -749,6 +750,7 @@
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
 | 2155D | [Batteries](https://codeforces.com/contest/2155/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2155/D%20-%20Batteries/solution.cpp) |
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
+| 2276D | [Caveman](https://codeforces.com/contest/2276/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2276/D%20-%20Caveman/solution.cpp) |
 
 ### greedy
 
