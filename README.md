@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 396 | 33 |
+| 397 | 33 |
 
 ---
 
@@ -33,9 +33,9 @@
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (77)
 - [interactive](#interactive) (10)
-- [math](#math) (160)
+- [math](#math) (161)
 - [matrices](#matrices) (2)
-- [number theory](#number-theory) (53)
+- [number theory](#number-theory) (54)
 - [probabilities](#probabilities) (7)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (13)
@@ -1210,6 +1210,7 @@
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2268B | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2268/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2268/B%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### matrices
 
@@ -1275,6 +1276,7 @@
 | 2193E | [Product Queries](https://codeforces.com/contest/2193/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/E%20-%20Product%20Queries/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### probabilities
 
