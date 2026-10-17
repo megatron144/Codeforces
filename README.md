@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 397 | 33 |
+| 398 | 33 |
 
 ---
 
@@ -18,18 +18,18 @@
 - [bitmasks](#bitmasks) (40)
 - [brute force](#brute-force) (86)
 - [combinatorics](#combinatorics) (35)
-- [constructive algorithms](#constructive-algorithms) (93)
+- [constructive algorithms](#constructive-algorithms) (94)
 - [data structures](#data-structures) (70)
 - [dfs and similar](#dfs-and-similar) (34)
 - [divide and conquer](#divide-and-conquer) (10)
-- [dp](#dp) (92)
+- [dp](#dp) (93)
 - [dsu](#dsu) (14)
 - [flows](#flows) (1)
 - [games](#games) (10)
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (3)
 - [graphs](#graphs) (40)
-- [greedy](#greedy) (182)
+- [greedy](#greedy) (183)
 - [hashing](#hashing) (5)
 - [implementation](#implementation) (77)
 - [interactive](#interactive) (10)
@@ -39,12 +39,12 @@
 - [probabilities](#probabilities) (7)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (13)
-- [sortings](#sortings) (53)
+- [sortings](#sortings) (54)
 - [string suffix structures](#string-suffix-structures) (1)
 - [strings](#strings) (24)
 - [ternary search](#ternary-search) (2)
 - [trees](#trees) (28)
-- [two pointers](#two-pointers) (43)
+- [two pointers](#two-pointers) (44)
 
 ---
 
@@ -417,6 +417,7 @@
 | 2189B | [The Curse of the Frog](https://codeforces.com/contest/2189/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2189/B%20-%20The%20Curse%20of%20the%20Frog/solution.cpp) |
 | 2189C1 | [XOR Convenience (Easy Version)](https://codeforces.com/contest/2189/problem/C1) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2189/C1%20-%20XOR%20Convenience%20(Easy%20Version)/solution.cpp) |
 | 2189C2 | [XOR-convenience (Hard Version)](https://codeforces.com/contest/2189/problem/C2) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2189/C2%20-%20XOR-convenience%20(Hard%20Version)/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### data structures
 
@@ -643,6 +644,7 @@
 | 2193E | [Product Queries](https://codeforces.com/contest/2193/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/E%20-%20Product%20Queries/solution.cpp) |
 | 2193F | [Pizza Delivery](https://codeforces.com/contest/2193/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/F%20-%20Pizza%20Delivery/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### dsu
 
@@ -938,6 +940,7 @@
 | 2193B | [Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/B%20-%20Reverse%20a%20Permutation/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 | 2193F | [Pizza Delivery](https://codeforces.com/contest/2193/problem/F) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/F%20-%20Pizza%20Delivery/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### hashing
 
@@ -1372,6 +1375,7 @@
 | 2176C | [Odd Process](https://codeforces.com/contest/2176/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2176/C%20-%20Odd%20Process/solution.cpp) |
 | 2184E | [Exquisite Array](https://codeforces.com/contest/2184/problem/E) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2184/E%20-%20Exquisite%20Array/solution.cpp) |
 | 2193D | [Monster Game](https://codeforces.com/contest/2193/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/D%20-%20Monster%20Game/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### string suffix structures
 
@@ -1495,6 +1499,7 @@
 | 2185E | [The Robotic Rush](https://codeforces.com/contest/2185/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2185/E%20-%20The%20Robotic%20Rush/solution.cpp) |
 | 2193D | [Monster Game](https://codeforces.com/contest/2193/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2193/D%20-%20Monster%20Game/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/megatron144/Codeforces/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ---
 
